@@ -1,0 +1,36 @@
+{
+  "id": "cosy-couple-nest",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Cosy Couple Nest", "en": "Cosy Couple Nest", "sq": "Cosy Couple Nest" },
+  "itemId": "cosy-couple-nest",
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "apartments/cosy-couple-nest/hero.avif",
+      "title": { "de": "Cosy Couple Nest", "en": "Cosy Couple Nest", "sq": "Cosy Couple Nest" },
+      "subtitle": { "de": "1-2 Personen · 35m²", "en": "1-2 persons · 35m²", "sq": "1-2 persona · 35m²" }
+    },
+    {
+      "id": "description",
+      "type": "text",
+      "visible": true,
+      "title": { "de": "Beschreibung", "en": "Description", "sq": "Përshkrim" },
+      "body": { "de": "Ein gemütliches Apartment für Paare mit komfortablem Doppelbett, voll ausgestatteter Küche und modernem Badezimmer.", "en": "A cozy apartment for couples with comfortable double bed, fully equipped kitchen and modern bathroom.", "sq": "Një apartament i rehatshëm për çifte me krevat dopio komod, kuzhinë të pajisur plotësisht dhe banjë moderne." }
+    },
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "visible": true,
+      "galleryFolder": "apartments/cosy-couple-nest/gallery"
+    },
+    {
+      "id": "booking",
+      "type": "booking",
+      "visible": true,
+      "title": { "de": "Buchen Sie Ihren Aufenthalt", "en": "Book your stay", "sq": "Rezervoni qëndrimin tuaj" }
+    }
+  ]
+}

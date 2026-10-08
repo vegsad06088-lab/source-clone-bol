@@ -1,0 +1,36 @@
+{
+  "id": "twin-harmony-suite",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Twin Harmony Suite", "en": "Twin Harmony Suite", "sq": "Twin Harmony Suite" },
+  "itemId": "twin-harmony-suite",
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "apartments/twin-harmony-suite/hero.avif",
+      "title": { "de": "Twin Harmony Suite", "en": "Twin Harmony Suite", "sq": "Twin Harmony Suite" },
+      "subtitle": { "de": "1-2 Personen · 35m²", "en": "1-2 persons · 35m²", "sq": "1-2 persona · 35m²" }
+    },
+    {
+      "id": "description",
+      "type": "text",
+      "visible": true,
+      "title": { "de": "Beschreibung", "en": "Description", "sq": "Përshkrim" },
+      "body": { "de": "Ein elegantes Apartment für 1-2 Personen mit zwei komfortablen Einzelbetten, voll ausgestatteter Küche und modernem Badezimmer.", "en": "An elegant apartment for 1-2 persons with two comfortable single beds, fully equipped kitchen and modern bathroom.", "sq": "Një apartament elegant për 1-2 persona me dy krevate teke komode, kuzhinë të pajisur plotësisht dhe banjë moderne." }
+    },
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "visible": true,
+      "galleryFolder": "apartments/twin-harmony-suite/gallery"
+    },
+    {
+      "id": "booking",
+      "type": "booking",
+      "visible": true,
+      "title": { "de": "Buchen Sie Ihren Aufenthalt", "en": "Book your stay", "sq": "Rezervoni qëndrimin tuaj" }
+    }
+  ]
+}

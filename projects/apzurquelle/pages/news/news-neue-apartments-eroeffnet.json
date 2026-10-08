@@ -1,0 +1,10 @@
+{
+  "id": "news-neue-apartments-eroeffnet",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "date": "2026-03-15",
+  "title": { "de": "Neue Apartments eröffnet", "en": "New apartments opened", "sq": "Apartamente të reja të hapura" },
+  "summary": { "de": "Wir freuen uns, die Eröffnung unserer renovierten Apartments bekannt zu geben. Moderne Ausstattung und ein frisches Design erwarten Sie.", "en": "We are pleased to announce the opening of our renovated apartments. Modern amenities and a fresh design await you.", "sq": "Ne gëzohemi të njoftojmë hapjen e apartamenteve tona të rinovuara. Pajisje moderne dhe një dizajn i ri ju presin." },
+  "image": "apartments-page/hero.avif",
+  "tags": ["neuigkeiten"]
+}

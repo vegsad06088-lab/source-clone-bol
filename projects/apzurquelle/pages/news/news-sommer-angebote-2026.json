@@ -1,0 +1,10 @@
+{
+  "id": "news-sommer-angebote-2026",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "date": "2026-06-01",
+  "title": { "de": "Sommer-Angebote 2026", "en": "Summer offers 2026", "sq": "Ofertat e verës 2026" },
+  "summary": { "de": "Buchen Sie jetzt Ihren Sommerurlaub in Wien und profitieren Sie von unseren besonderen Sommerangeboten.", "en": "Book your summer vacation in Vienna now and benefit from our special summer offers.", "sq": "Rezervoni tani pushimet tuaja të verës në Vjenë dhe përfitoni nga ofertat tona të veçanta të verës." },
+  "image": "home/hero.avif",
+  "tags": ["angebote", "sommer"]
+}
