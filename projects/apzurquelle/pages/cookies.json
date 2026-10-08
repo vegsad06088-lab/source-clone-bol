@@ -1,0 +1,21 @@
+{
+  "id": "cookies",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Cookie-Richtlinie", "en": "Cookie Policy", "sq": "Politika e cookies" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "className": "min-h-[30vh] h-[30vh]",
+      "title": { "de": "Cookie-Richtlinie", "en": "Cookie Policy", "sq": "Politika e cookies" }
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "visible": true,
+      "body": { "de": "<h2>Cookie-Richtlinie</h2><p>Wir verwenden Cookies, um Ihnen die bestmögliche Erfahrung auf unserer Website zu bieten.</p>", "en": "<h2>Cookie Policy</h2><p>We use cookies to provide you with the best possible experience on our website.</p>", "sq": "<h2>Politika e Cookies</h2><p>Ne përdorim cookies për t'ju ofruar përvojën më të mirë të mundshme në faqen tonë të internetit.</p>" }
+    }
+  ]
+}

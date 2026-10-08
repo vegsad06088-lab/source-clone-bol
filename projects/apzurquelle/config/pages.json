@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "apartments": true,
+    "about": true,
+    "anleitungen": true,
+    "contact": true,
+    "chat": true,
+    "registrierung": true
+  },
+  "features": {
+    "chatWidget": true
+  }
+}

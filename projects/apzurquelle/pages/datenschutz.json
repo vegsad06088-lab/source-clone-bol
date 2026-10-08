@@ -1,0 +1,21 @@
+{
+  "id": "datenschutz",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Datenschutz", "en": "Privacy Policy", "sq": "Politika e privatësisë" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "className": "min-h-[30vh] h-[30vh]",
+      "title": { "de": "Datenschutz", "en": "Privacy Policy", "sq": "Politika e privatësisë" }
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "visible": true,
+      "body": { "de": "<h2>Datenschutzerklärung</h2><p>Wir nehmen den Schutz Ihrer persönlichen Daten ernst. Diese Datenschutzerklärung erläutert, welche Daten wir erheben und wie wir sie verwenden.</p>", "en": "<h2>Privacy Policy</h2><p>We take the protection of your personal data seriously. This privacy policy explains what data we collect and how we use it.</p>", "sq": "<h2>Politika e Privatësisë</h2><p>Ne e marrim seriozisht mbrojtjen e të dhënave tuaja personale. Kjo politikë e privatësisë shpjegon çfarë të dhënash mbledhim dhe si i përdorim ato.</p>" }
+    }
+  ]
+}

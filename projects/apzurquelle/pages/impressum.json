@@ -1,0 +1,21 @@
+{
+  "id": "impressum",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Impressum", "en": "Imprint", "sq": "Impressum" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "className": "min-h-[30vh] h-[30vh]",
+      "title": { "de": "Impressum", "en": "Imprint", "sq": "Impressum" }
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "visible": true,
+      "body": { "de": "<h2>Angaben gemäß § 5 TMG</h2><p>Apartments zur Quelle<br>Absberggasse 6<br>1100 Wien, Österreich</p><p>Telefon: +43 676 842 287 105<br>E-Mail: info@ap-zur-quelle.at</p>", "en": "<h2>Information according to § 5 TMG</h2><p>Apartments zur Quelle<br>Absberggasse 6<br>1100 Vienna, Austria</p><p>Phone: +43 676 842 287 105<br>Email: info@ap-zur-quelle.at</p>", "sq": "<h2>Informacion sipas § 5 TMG</h2><p>Apartments zur Quelle<br>Absberggasse 6<br>1100 Vjenë, Austri</p><p>Telefon: +43 676 842 287 105<br>Email: info@ap-zur-quelle.at</p>" }
+    }
+  ]
+}

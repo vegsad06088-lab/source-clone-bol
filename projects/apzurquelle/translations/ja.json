@@ -1,0 +1,526 @@
+{
+  "ja.bookingConditions.title": "予約条件",
+  "ja.bookingConditions.intro": "ご予約の前に、これらの予約条件を必ずお読みください。",
+  "ja.bookingConditions.cancellation.title": "1. キャンセルポリシー",
+  "ja.bookingConditions.cancellation.free": "チェックイン日の7日前（14:00まで）であれば無料でキャンセルできます。",
+  "ja.bookingConditions.cancellation.late": "チェックイン日の7日前以降のキャンセルは、予約金額の20％がキャンセル料として発生します。",
+  "ja.bookingConditions.payment.title": "2. お支払い方法",
+  "ja.bookingConditions.payment.methods": "Stripe または PayPal にてお支払いが可能です。",
+  "ja.bookingConditions.deposit.title": "3. デポジットと支払い規定",
+  "ja.bookingConditions.deposit.first": "予約時に20％のデポジットをお支払いいただきます。",
+  "ja.bookingConditions.deposit.second": "残金80％はチェックイン日の7日前までにお支払いください。",
+  "ja.bookingConditions.cleaning.title": "4. 清掃料金",
+  "ja.bookingConditions.cleaning.text": "清掃料金は総額に含まれています。",
+  "ja.bookingConditions.cityTax.title": "5. 宿泊税",
+  "ja.bookingConditions.cityTax.text": "宿泊税は総額に含まれています。",
+  "ja.bookingConditions.checkin.title": "6. チェックイン & チェックアウト",
+  "ja.bookingConditions.checkin.in": "チェックイン：14:00〜",
+  "ja.bookingConditions.checkin.out": "チェックアウト：10:00まで",
+  "ja.bookingConditions.checkin.lockbox": "キーボックス（Lockbox）を利用したセルフチェックインです。",
+  "ja.bookingConditions.more.title": "7. 詳細情報",
+  "ja.bookingConditions.more.text": "完全な利用規約は以下をご覧ください：",
+  "ja.bookingConditions.more.link": "利用規約",
+
+  "ja.amenities.accessible": "バリアフリー",
+  "ja.amenities.cooking_facilities": "コンロ",
+  "ja.amenities.fridge": "冷蔵庫",
+  "ja.amenities.hair_dryer": "ヘアドライヤー",
+  "ja.amenities.kettle": "ケトル",
+  "ja.amenities.microwave": "電子レンジ",
+  "ja.amenities.non_smoking": "禁煙",
+  "ja.amenities.self_check_in": "セルフチェックイン",
+  "ja.amenities.shower": "シャワー",
+  "ja.amenities.soft_towels": "タオル",
+  "ja.amenities.tv": "テレビ",
+  "ja.amenities.wifi_250_mbit": "250 Mbit/s",
+
+  "ja.apartments.cosy_couple_nest.beds": "ダブルベッド1台",
+  "ja.apartments.cosy_couple_nest.description": "カップルや一人旅に最適な快適なダブルベッドです。",
+  "ja.apartments.cosy_couple_nest.long_description": "Cosy Couple Nest へようこそ。ウィーン中心部にある、快適で落ち着いた滞在を楽しめる小さな隠れ家です。カップルや一人旅の方にぴったりのダブルベッドをご用意しています。\n\nリビングエリアにはモダンなテレビがあり、映画鑑賞や観光後のリラックスタイムに最適です。高速で無料のWi‑Fiも完備しており、仕事にも観光にも便利です。\n\n設備の整ったキッチンには、冷蔵庫、ケトル、電子レンジ、コンロ、食器類など、自炊に必要なものが揃っています。\n\nモダンなバスルームにはシャワーがあり、朝のリフレッシュや夜のリラックスに最適です。\n\nCosy Couple Nest は、小さくても快適で、ウィーン滞在にぴったりの空間です。",
+  "ja.apartments.cosy_couple_nest.name": "Cosy Couple Nest",
+  "ja.apartments.cosy_couple_nest.persons": "1〜2名",
+  "ja.apartments.cosy_couple_nest.rooms": "1室",
+  "ja.apartments.cosy_couple_nest.section_title": "ウィーンでの快適な隠れ家",
+  "ja.apartments.cosy_couple_nest.size": "25㎡",
+
+  "ja.apartments.duo_deluxe_studio.beds": "ダブルベッド1台",
+  "ja.apartments.duo_deluxe_studio.description": "カップルや一人旅に最適なモダンなダブルベッドです。",
+  "ja.apartments.duo_deluxe_studio.long_description": "Duo Deluxe Studio へようこそ。ウィーンでの滞在にぴったりな、スタイリッシュで機能的なスタジオタイプのお部屋です。快適なダブルベッドは、カップルにも一人旅にも最適です。\n\nリビングエリアには高品質なテレビがあり、映画やドラマをゆっくり楽しめます。高速で無料のWi‑Fiも完備しています。\n\nキッチンには、冷蔵庫、ケトル、電子レンジ、コンロ、食器類など、自炊に必要な設備が揃っています。\n\nモダンなバスルームにはシャワーがあり、観光後のリフレッシュに最適です。\n\nDuo Deluxe Studio は、スタイリッシュで快適なウィーン滞在を叶える理想的な空間です。",
+  "ja.apartments.duo_deluxe_studio.name": "Duo Deluxe Studio",
+  "ja.apartments.duo_deluxe_studio.persons": "1〜2名",
+  "ja.apartments.duo_deluxe_studio.rooms": "1室",
+  "ja.apartments.duo_deluxe_studio.section_title": "ウィーンのデラックススタジオ",
+  "ja.apartments.duo_deluxe_studio.size": "30㎡",
+
+  "ja.apartments.twin_harmony_suite.beds": "シングルベッド2台",
+  "ja.apartments.twin_harmony_suite.description": "調和のとれた空間に配置された快適なシングルベッド2台。友人同士や同僚に最適です。",
+  "ja.apartments.twin_harmony_suite.long_description": "Twin Harmony Suite へようこそ。快適なシングルベッド2台が調和よく配置された、友人同士や同僚との滞在に最適なお部屋です。\n\nリビングエリアにはモダンなテレビがあり、映画やドラマを楽しめます。無料Wi‑Fiも完備しており、仕事にも観光にも便利です。\n\n設備の整ったキッチンには、冷蔵庫、ケトル、電子レンジ、コンロ、食器類など、自炊に必要なものが揃っています。\n\n観光で疲れた後は、モダンなバスルームのシャワーでリフレッシュできます。\n\nTwin Harmony Suite は、活気あるウィーンでの快適な滞在を叶える理想的な空間です。",
+  "ja.apartments.twin_harmony_suite.name": "Twin Harmony Suite",
+  "ja.apartments.twin_harmony_suite.persons": "1〜2名",
+  "ja.apartments.twin_harmony_suite.rooms": "2室",
+  "ja.apartments.twin_harmony_suite.section_title": "ウィーンでのツインルーム体験",
+  "ja.apartments.twin_harmony_suite.size": "35㎡",
+
+  "ja.apartments.trio_harmony_suite.beds": "シングルベッド2台 + ソファベッド1台",
+  "ja.apartments.trio_harmony_suite.description": "快適なシングルベッド2台とソファベッド1台。友人同士、同僚、小さなお子様連れのご家族に最適です。",
+  "ja.apartments.trio_harmony_suite.long_description": "Trio Harmony Suite へようこそ。シングルベッド2台とソファベッド1台の合計3つの寝具が調和よく配置され、友人同士、同僚、または小さなご家族に最適な空間です。\n\nリビングエリアにはモダンなテレビがあり、映画やドラマを楽しめます。無料Wi‑Fiも完備しており、仕事にも観光にも便利です。\n\n設備の整ったキッチンには、冷蔵庫、ケトル、電子レンジ、コンロ、食器類など、自炊に必要なものが揃っています。\n\n観光で疲れた後は、モダンなバスルームのシャワーでリフレッシュできます。\n\nTrio Harmony Suite は、活気あるウィーンでの快適な滞在を叶える理想的な空間です。",
+  "ja.apartments.trio_harmony_suite.name": "Trio Harmony Suite",
+  "ja.apartments.trio_harmony_suite.persons": "1〜3名",
+  "ja.apartments.trio_harmony_suite.rooms": "2室",
+  "ja.apartments.trio_harmony_suite.section_title": "ウィーンでのトリプルルーム体験",
+  "ja.apartments.trio_harmony_suite.size": "35㎡",
+
+  "ja.amenities.towels": "タオル",
+  "ja.amenities.refrigerator": "冷蔵庫",
+  "ja.amenities.stove": "コンロ",
+
+  "ja.instructions.check_in_guija.title": "チェックインガイド",
+  "ja.instructions.check_in_guija.description": "セルフチェックインのための簡単で分かりやすいガイドです。安全かつスムーズにお部屋へ入室する方法をご案内します。",
+
+  "ja.instructions.iron_board.title": "アイロン & アイロン台",
+  "ja.instructions.iron_board.description": "アイロンとアイロン台は1階にあります。安全にご利用いただくための手順をご確認ください。",
+
+  "ja.instructions.parking_options.title": "駐車場",
+  "ja.instructions.parking_options.description": "駐車も安心：地下駐車場や周辺の公共駐車スペースなど、滞在に合わせた柔軟なオプションをご利用いただけます。",
+
+  "ja.instructions.check_out_guija.title": "チェックアウトガイド",
+  "ja.instructions.check_out_guija.description": "快適にお過ごしいただけましたでしょうか。ご出発前に、以下の手順をご確認ください。",
+
+  "ja.instructions.public_transport_vienna.title": "ウィーンの公共交通機関",
+  "ja.instructions.public_transport_vienna.description": "ウィーンには、街中を快適かつスムーズに移動できる優れた公共交通ネットワークがあります。",
+
+  "ja.instructions.luggage_before_check_in.title": "チェックイン前の荷物預かり",
+  "ja.instructions.luggage_before_check_in.description": "お部屋の準備が整っていない場合でも、荷物を安全にお預かりできます。",
+
+  "ja.instructions.luggage_after_check_out.title": "チェックアウト後の荷物預かり",
+  "ja.instructions.luggage_after_check_out.description": "チェックアウト後も荷物をお預けいただけます。",
+
+  "ja.instructions.heating_control.title": "暖房操作ガイド",
+  "ja.instructions.heating_control.description": "暖房を最適に設定するための手順をご案内します。画像付きの詳細ガイドはPDFでもご覧いただけます。",
+
+  "ja.instructions.tv_guija.title": "テレビ操作ガイド",
+  "ja.instructions.tv_guija.description": "お部屋のテレビを簡単に操作できるステップバイステップのガイドです。",
+
+  "ja.instructions.induction_cooktop.title": "IHコンロ操作ガイド",
+  "ja.instructions.induction_cooktop.description": "安全かつスピーディーに調理するためのIHコンロの使い方をご紹介します。",
+
+  "ja.instructions.discover_vienna_kids.title": "🧸 お子様と一緒にウィーンを楽しむ",
+  "ja.instructions.discover_vienna_kids.description": "ウィーンでのご家族向けのおすすめスポットや、子どもと一緒に楽しめるアクティビティをご紹介します。",
+
+  "ja.reviews.petra.text": "温かいお出迎え",
+  "ja.reviews.petra.quote": "到着時、ヌヒさんが素敵な笑顔で迎えてくれました！ここでの温かさとホスピタリティは本当に素晴らしいです。",
+  "ja.reviews.petra.location": "ミュンヘン（ドイツ）",
+
+  "ja.reviews.luca.text": "気配りの行き届いたサービス",
+  "ja.reviews.luca.quote": "新しいタオルが必要だったとき、すぐに対応してくれました。サービスは本当に素晴らしく、とても丁寧でした！",
+  "ja.reviews.luca.location": "イタリア",
+
+  "ja.reviews.sophie.text": "最高の立地",
+  "ja.reviews.sophie.quote": "中心地に近く、観光にとても便利でした！数分歩くだけでウィーンの賑やかな中心部に行けます。",
+  "ja.reviews.sophie.location": "チューリッヒ（スイス）",
+
+  "ja.reviews.fam_welter.text": "ヌヒさんの魅力",
+  "ja.reviews.fam_welter.quote": "ヌヒさんはとても親切で、素敵なアドバイスと温かい対応で滞在をより良いものにしてくれました。",
+  "ja.reviews.fam_welter.location": "ニュルンベルク（ドイツ）",
+
+  "ja.reviews.tomasz.text": "快適でモダン！",
+  "ja.reviews.tomasz.quote": "快適でモダンな設備が揃っており、理想的な週末を過ごせました！",
+  "ja.reviews.tomasz.location": "ワルシャワ（ポーランド）",
+
+  "ja.reviews.laura_tom.text": "究極のリラックス！",
+  "ja.reviews.laura_tom.quote": "このアパートメントの快適さと静けさは本当に素晴らしいです。街で過ごした一日の後にぴったりのオアシスです！",
+  "ja.reviews.laura_tom.location": "ヴァイデン（ドイツ）",
+
+  "ja.faq.booking.q": "アパートメントはどのように予約できますか？",
+  "ja.faq.booking.a": "当社のウェブサイトから簡単に予約できます。または直接お電話いただいても大丈夫です。喜んでお手伝いします。",
+
+  "ja.faq.prices.q": "料金は1名あたりですか、それとも1室あたりですか？",
+  "ja.faq.prices.a": "表示されている料金は1室あたりの料金です。人数によって変わりませんので、計画が立てやすいです。",
+
+  "ja.faq.amenities.q": "アパートメントにはどんな設備がありますか？",
+  "ja.faq.amenities.a": "すべてのアパートメントにはキッチン、シャワー付きバスルーム、リビングルーム、寝室が備わっており、快適にお過ごしいただけます。",
+
+  "ja.faq.pets.q": "ペットは同伴できますか？",
+  "ja.faq.pets.a": "申し訳ありませんが、他のお客様への配慮のためペットの同伴はできません。",
+
+  "ja.faq.discounts.q": "長期滞在向けの割引はありますか？",
+  "ja.faq.discounts.a": "はい、長期滞在のお客様には特別料金をご用意しています。お気軽にお問い合わせください。",
+
+  "ja.faq.parking.q": "アパートメントに駐車場はありますか？",
+  "ja.faq.parking.a": "はい、地下駐車場をご利用いただけます。ただし事前の確認と予約が必要です。",
+
+  "ja.features.elevator.title": "エレベーター完備",
+  "ja.features.elevator.desc": "お部屋まで快適にアクセスできます。",
+
+  "ja.features.tv.title": "モダンなテレビ",
+  "ja.features.tv.desc": "多彩な番組でリラックスできます。",
+
+  "ja.features.hairdryer.title": "ヘアドライヤー",
+  "ja.features.hairdryer.desc": "旅行中でもスタイリングが簡単です。",
+
+  "ja.features.wifi.title": "高速Wi‑Fi",
+  "ja.features.wifi.desc": "いつでも接続可能、無料でご利用いただけます。",
+
+  "ja.features.kitchen.title": "キッチン設備",
+  "ja.features.kitchen.desc": "お好みの料理を自由に作れます。",
+
+  "ja.features.towels.title": "柔らかいタオル",
+  "ja.features.towels.desc": "清潔で心地よいタオルをご用意しています。",
+
+  "ja.home.sustainability.title": "サステナブルでスタイリッシュな滞在。",
+  "ja.home.sustainability.subtitle": "快適さと環境配慮を両立。私たちのアパートメントは再生可能エネルギーと持続可能な取り組みを採用しています。",
+  "ja.home.sustainability.cta_discover": "アパートメントを見る",
+
+  "ja.home.why_us.title": "私たちの宿泊が特別な理由。",
+  "ja.home.why_us.subtitle": "本物のおもてなしを体験してください。ウィーンのサステナブルなアパートメントで、心温まるサービスと快適さをお届けします。",
+  "ja.home.why_us.description": "私たちは環境に優しい滞在を提供します。地熱暖房と今後導入予定の太陽光エネルギーにより、快適でありながら環境に配慮した宿泊が可能です。",
+
+  "ja.home.reviews.title": "お客様の声",
+  "ja.home.reviews.subtitle": "世界中のお客様が私たちのアパートメントを愛する理由をご紹介します。",
+
+  "ja.footer.brand_description": "ウィーンでのあなたの家。便利な立地とモダンな設備。",
+  "ja.footer.quick_links": "クイックリンク",
+  "ja.footer.legal": "法的情報",
+  "ja.footer.contact": "お問い合わせ",
+  "ja.footer.about": "当施設について",
+  "ja.footer.instructions": "ガイド",
+  "ja.footer.privacy_policy": "プライバシー",
+  "ja.footer.terms_conditions": "利用規約",
+  "ja.footer.booking_conditions": "予約条件",
+  "ja.footer.cookie_policy": "Cookieポリシー",
+  "ja.footer.design_programming": "デザイン & プログラミング：",
+
+  "ja.contact.success_message": "送信が成功しました！できるだけ早くご連絡いたします。",
+  "ja.contact.write_us": "メッセージを送る",
+  "ja.contact.call_us": "お電話ください",
+  "ja.contact.visit_us": "訪問する",
+  "ja.contact.recommendations_title": "ウィーン滞在のおすすめ情報。",
+  "ja.contact.message_placeholder": "こんにちは。9月3日〜10日のアパートメントを探しています。空室はありますか？",
+  "ja.contact.privacy_agreement_part1": "私は",
+  "ja.contact.privacy_agreement_part2": "を確認し、同意します。",
+
+  "ja.contact.form.name": "名前",
+  "ja.contact.form.name_placeholder": "Max Mustermann",
+  "ja.contact.form.email": "メールアドレス",
+  "ja.contact.form.phone": "電話番号",
+  "ja.contact.form.subject": "件名",
+  "ja.contact.form.subject_placeholder": "お部屋の問い合わせ",
+  "ja.contact.form.message": "メッセージ内容",
+  "ja.contact.form.submit": "送信する",
+
+  "ja.contact.hero.title": "お問い合わせ",
+  "ja.contact.hero.subtitle": "よくある質問、予約、特別なご要望など、どんなことでもお気軽にご相談ください。",
+
+  "ja.contact.viator.subtitle": "旅に役立つおすすめツアーやチケット、見どころをご紹介します",
+
+  "ja.navbar.home": "ホーム",
+  "ja.navbar.apartments": "アパートメント",
+  "ja.navbar.book_now": "今すぐ予約",
+
+  "ja.about.hero.title": "私たちの想い",
+  "ja.about.hero.subtitle": "ウィーンの鼓動とともに、現代的な快適さと持続可能な取り組みを融合させています。私たちのストーリーへようこそ。",
+
+  "ja.about.location.title": "ウィーンでの私たちのロケーション",
+  "ja.about.location.subtitle": "ウィーンの魅力とモダンなエレガンスが出会う場所。街歩きの理想的なスタート地点です。",
+  "ja.about.location.open_map": "地図を開く",
+
+  "ja.about.viator.title": "ウィーン滞在のヒント",
+  "ja.about.viator.subtitle": "旅をより楽しむためのおすすめツアーやチケットをご紹介します",
+
+  "ja.about.home.title": "ウィーンでのあなたの家",
+  "ja.about.home.description": "ウィーンの都会的な雰囲気に浸りながら、快適さとプライバシーを兼ね備えたモダンなアパートメントでお過ごしください。どのお部屋もスタイリッシュで、この街の活気を感じられます。",
+
+  "ja.about.rooms.title": "心地よく過ごせる空間",
+  "ja.about.rooms.description": "旅先では、快適にくつろげる場所がとても大切です。私たちのアパートメントは、そのためにデザインされています。",
+
+  "ja.instructions.checkin.quote1": "チェックインの際は、入口ドアの左側にあるキーパッドにアクセスコードを入力してください。",
+  "ja.instructions.checkin.quote2": "まずキーパッドの電源ボタンを押して起動し、その後お知らせしたアクセスコードを入力してください。",
+  "ja.instructions.checkin.quote3": "正しく入力されると赤いランプが点灯し、ドアが解錠されます。",
+  "ja.instructions.checkin.quote4": "ドアノブを左に回して解錠してください。セキュリティドアのため少し重い場合があります。ノブを回した後、しっかり引いて開けてください。",
+  "ja.instructions.checkin.quote5": "建物に入り、エレベーターでお部屋のある階へお進みください。",
+  "ja.instructions.checkin.quote6": "お部屋の前にはキーボックスがあります。受け取ったコードを入力し、レバーを下げて鍵を取り出してください。",
+
+  "ja.instructions.ironing.quote1": "アイロンとアイロン台は1階にあります。正面入口からまっすぐ進み、エレベーターを過ぎた左側に設置されています。",
+  "ja.instructions.ironing.quote2": "アイロン台を下ろすには、右側のフックを回してロックを外し、水平になるまでゆっくり下げてください。",
+  "ja.instructions.ironing.quote3": "アイロンの準備：コンセントに差し込み、必要であれば水を入れてスチーム機能を使用できます。\n\nアイロンがけ：温度を設定し、温まったら衣類をアイロン台の上で整えてください。\n\n使用後：電源を切り、プラグを抜いて冷ましてからアイロン台を元に戻し、フックで固定してください。",
+
+  "ja.instructions.parking.heading": "駐車場と滞在のヒント",
+  "ja.instructions.parking.quote1": "地下駐車場\n\n当施設の地下駐車場は、VWゴルフ程度までの小型車に適しています。手動でゲートを開ける必要があるため、事前予約と到着時間のご連絡が必要です。料金は車1日10€、バイク1日5€です。自転車は無料で駐輪できます。",
+  "ja.instructions.parking.quote2": "公共駐車スペース\n\n周辺には公共駐車場があります。平日9:00〜22:00は有料ですが、22:00〜9:00は無料です。週末は終日無料です。駐車券は「EasyPark」アプリで購入できます。",
+
+  "ja.instructions.checkout.text1": "快適にお過ごしいただけましたでしょうか。ご出発前に、次のお客様のため以下の点にご協力ください：",
+  "ja.instructions.checkout.quote1": "使用済みタオルを集める：\n\n使用したタオルをすべて集め、バスルームの床に置いてください。交換が必要なタオルが分かりやすくなります。",
+  "ja.instructions.checkout.quote2": "電源オフ & 窓の確認：\n\nテレビやキッチン家電など、すべての電気機器の電源を切り、窓が閉まっているか確認してください。省エネと安全のためです。",
+  "ja.instructions.checkout.quote3": "鍵の返却：\n\n鍵をお部屋の前のキーボックスに戻し、しっかり施錠してください。",
+  "ja.instructions.checkout.quote4": "追加のお願い：\n\n- 使用した食器は洗っていただけると助かります。\n- チェックアウトの際は一言ご連絡いただけると、次のお客様の準備がスムーズに進みます。ご協力ありがとうございます！",
+  "ja.instructions.checkout.text2": "ご滞在ありがとうございました。安全なご旅行をお祈りします。またお会いできる日を楽しみにしています。",
+
+  "ja.instructions.publictransport.heading": "ウィーン公共交通ガイド",
+  "ja.instructions.publictransport.text1": "ウィーンには優れた公共交通ネットワークがあります。最適なルートを調べるには、ウィーン交通局（Wiener Linien）のルートプランナーがおすすめです。",
+  "ja.instructions.publictransport.quote1": "ウィーン交通局ルートプランナーを利用する\n\n公式ルートプランナーはこちら：",
+  "ja.instructions.publictransport.linktext1": "Wiener Linien ルートプランナー",
+
+  "ja.instructions.publictransport.quote2": "ルート検索の開始\n\n現在地を入力し、目的地に「Absberggasse 6」と入力してください。最適で分かりやすいルートが表示されます。",
+  "ja.instructions.publictransport.quote3": "公共交通のメリット\n\n- 高頻度 & 広いカバー範囲：地下鉄・トラム・バスで街中どこへでも移動できます。\n\n- リアルタイム情報：遅延や発車時刻も確認できます。\n\n- どんな目的にも便利：観光でも移動でも、公共交通が最もスムーズです。",
+  "ja.instructions.publictransport.quote4": "チケットと料金\n\nチケットは地下鉄駅の券売機、Trafik（売店）、WienMobilアプリ、または公式ウェブサイトで購入できます。1回券、24時間券、48時間券、週間券などがあります。",
+  "ja.instructions.publictransport.quote5": "質問やサポート\n\n交通機関の利用について質問がある場合やルートの相談が必要な場合は、お気軽にお声がけください。",
+  "ja.instructions.publictransport.text2": "このガイドを参考に、ウィーンを快適に楽しんでください。",
+
+  "ja.instructions.baggagestorage_before.text1": "14時の公式チェックイン前にウィーンへ到着される場合、荷物を持ち歩くのは大変です。そのため、お部屋の準備が整っていない場合でも荷物をお預かりできます。",
+  "ja.instructions.baggagestorage_before.quote1": "荷物預かり（10時〜）\n\n10時から清掃スタッフが館内におります。建物に入り、エレベーターで上階から順にスタッフをお探しください。清掃は上階から順に行われます。",
+  "ja.instructions.baggagestorage_before.quote2": "スタッフへのお知らせ\n\nスタッフを見つけたら、お部屋番号をお伝えください。チェックインまで荷物を安全にお預かりします。",
+  "ja.instructions.baggagestorage_before.text2": "このサービスが便利にご利用いただければ幸いです。質問やサポートが必要な場合は、遠慮なくご連絡ください。",
+  "ja.instructions.baggagestorage_after.text1": "チェックアウト後も荷物をお預けいただけます。スムーズにご利用いただくため、以下の手順をご確認ください：",
+
+  "ja.instructions.baggagestorage_after.quote1": "🕘 チェックアウトが9:00以前の場合：\n9時前にチェックアウトし荷物を預けたい場合は、必ず事前にご連絡ください。荷物はお部屋の入口（廊下）に置いてください。",
+
+  "ja.instructions.baggagestorage_after.quote2": "🕘 チェックアウトが9:00以降の場合：\n清掃スタッフが館内で作業しています。スタッフを見つけて荷物を直接お渡しください。荷物はスタッフが保管室にてお預かりします。",
+
+  "ja.instructions.baggagestorage_after.quote3": "🎒 荷物の受け取り：必ず14:45までに！\n荷物を受け取る際は、各階の清掃スタッフ、または1階のアイロン室にいるスタッフにお声がけください。お部屋には入らないようお願いします。14:45以降はスタッフが不在となり、荷物の受け取りができません。その場合は中央駅のロッカーなどをご利用ください。",
+
+  "ja.instructions.baggagestorage_after.text2": "このサービスが快適にご利用いただければ幸いです。ご質問やサポートが必要な場合は、遠慮なくご連絡ください。",
+
+  "ja.instructions.heating.text1": "Danfoss TPOne サーモスタットを使えば、お部屋の温度を簡単に調整できます。暖房を最適に設定するため、以下の手順に従ってください。画像付きの詳細ガイドはPDFでもご覧いただけます。",
+
+  "ja.instructions.heating.quote1": "暖房のオン／オフ\n\nサーモスタットの電源ボタンを押して暖房をオンにします。画像付きの詳しい手順はPDF版をご覧ください。",
+
+  "ja.instructions.heating.quote2": "温度設定\n\nディスプレイの矢印ボタンで室温を上下できます。現在の温度は画面に表示されます。\n\n推奨温度：日中21〜22°C、夜間18〜19°C（快適に過ごすための目安です）。",
+
+  "ja.instructions.heating.quote3": "快適モードの利用\n\nサーモスタットには3つのモードがあります：\n\n- 在室：快適な温度に設定\n- 外出：不在時の省エネ設定\n- 就寝：夜間の涼しい温度設定",
+
+  "ja.instructions.heating.quote4": "手動で温度調整\n\n設定済みの温度はいつでも手動で変更できます。矢印ボタンで調整してください。",
+
+  "ja.instructions.heating.quote5": "スタンバイモード\n\n長時間外出する場合は、サーモスタットをスタンバイモードに設定できます。",
+
+  "ja.instructions.heating.quote6": "省エネ機能\n\n葉っぱのアイコンが表示されている場合、省エネ設定が有効になっています。",
+
+  "ja.instructions.heating.quote7": "窓センサー\n\n窓が開いていると、サーモスタットは自動的に暖房をスタンバイモードに切り替え、エネルギーを節約します。",
+
+  "ja.instructions.heating.text2": "ヒント：サーモスタットをより便利に使うため、画像付きのオリジナルPDFガイドもご利用ください。",
+
+  "ja.instructions.tv.text1": "前のゲストがテレビの設定を変更している場合があります。",
+  "ja.instructions.tv.text2": "ご安心ください。正しい設定はすぐに戻せます！ダウンロード可能なPDFガイドには、画像付きで分かりやすく手順が説明されています。",
+
+  "ja.instructions.kids.text1": "ウィーンにはご家族向けの楽しみがたくさんあります。お子様連れの場合、長い観光リストよりも、楽しくてリラックスできる場所が最適です。ここでは、ご家族におすすめのスポットをご紹介します。",
+
+  "ja.instructions.kids.quote1": "シェーンブルン宮殿はお子様連れに最適\n\n大人も子どもも楽しめるスポットを探しているなら、シェーンブルンはとてもおすすめです。宮殿だけでなく、子ども博物館、迷路、Labyrinthikonプレイエリアなどがあります。",
+
+  "ja.instructions.kids.linktext1": "チケットを購入",
+
+  "ja.instructions.kids.quote2": "プラーターでアクティブに過ごす\n\nお子様が思い切り遊びたいときはプラーターが最適です。公式サイトによると、幅広い年齢向けのアトラクションがあり、ウィーンの大観覧車には家族向けチケットもあります。",
+
+  "ja.instructions.kids.quote3": "技術博物館でワクワク体験\n\n天候に左右されず楽しみたい日には、技術博物館がぴったりです。公式サイトには子ども向け・家族向けの特別プログラムがあります。",
+
+  "ja.instructions.kids.quote4": "ウィーンを上から楽しむ\n\n大きなお子様にはドナウタワーもおすすめです。360度のパノラマビューに加え、高所にある滑り台も人気です。",
+
+  "ja.instructions.kids.linktext2": "チケットを購入",
+
+  "ja.instructions.kids.quote5": "ちょっとした休憩に\n\nお子様連れの旅では、観光だけでなく休憩時間も大切です。LUNIMOの子ども向け音楽は、元気に歌える曲から落ち着ける曲まで揃っており、リラックスに最適です。\n\n💛🎵 Spotify、Apple Music、YouTube、Amazon Musicで聴けます",
+
+  "ja.instructions.kids.quote6": "ウィーンでの家族旅行のコツ\n\nウィーンでは、すべてを見ようとしなくても大丈夫です。1日に1〜2つの目的地に絞り、ゆとりを持って過ごすのが一番です。",
+
+  "ja.instructions.kids.text2": "あなたとご家族がウィーンで素敵な時間を過ごせますように。快適な滞在をお祈りしています。",
+
+  "ja.impressum.intro": "アパートメント zur Quelle に関する重要な法的情報とお問い合わせ先はこちらでご確認いただけます。透明性と明確さを大切にしています。",
+  "ja.impressum.contact.title": "お問い合わせ",
+  "ja.impressum.info.title": "情報",
+  "ja.impressum.info.management": "運営責任者：Christine Führer",
+  "ja.impressum.info.businessPurpose": "事業内容：バケーションアパートメントでのゲスト宿泊（宿泊業）",
+  "ja.impressum.info.registrationNumber": "商業登記番号",
+  "ja.impressum.info.registrationCourt": "商業登記所",
+  "ja.impressum.info.registeredOffice": "本社所在地",
+  "ja.impressum.info.memberOf": "加盟団体",
+  "ja.impressum.info.professionalGroup": "職業グループ",
+  "ja.impressum.info.mediaOwner": "メディア所有者：Christine Führer GmbH",
+  "ja.impressum.design": "プログラミング",
+
+  "ja.impressum.liability.title": "責任とプライバシー",
+  "ja.impressum.liability.content": "責任とプライバシー",
+
+  "ja.impressum.section1": "1. 内容について",
+  "ja.impressum.section1.text": "このホームページの内容は情報提供のみを目的としています。すべての文章は細心の注意を払って作成していますが、助言を含む部分もあるため、情報の正確性や完全性について保証するものではありません。",
+
+  "ja.impressum.section2": "2. プライバシー",
+  "ja.impressum.section2.text": "プライバシーに関する詳細は、当社の",
+  "ja.impressum.section2.link": "プライバシーポリシー",
+  "ja.impressum.section3": "3. 外部リンク",
+  "ja.impressum.section3.text": "外部リンク先の内容については責任を負いません。リンク設定時には確認していますが、継続的な監視は困難です。",
+
+  "ja.impressum.odr.title": "オンライン紛争解決",
+  "ja.impressum.odr.text": "消費者はEUのオンライン紛争解決プラットフォームに苦情を提出できます：",
+
+  "ja.datenschutz.title": "プライバシーポリシー",
+  "ja.datenschutz.subtitle": "お客様のプライバシーとデータ保護への取り組み",
+
+  "ja.datenschutz.preamble.title": "序文",
+  "ja.datenschutz.preamble.text": "このプライバシー声明では、どのような個人データ（以下「データ」）を、どの目的で、どの範囲で処理するかを説明します。この声明は、当社のサービス提供におけるすべてのデータ処理に適用され、ウェブサイト、モバイルアプリ、ソーシャルメディアなどの外部オンラインサービスも含まれます。",
+  "ja.datenschutz.preamble.lastUpdated": "最終更新：2026年3月",
+
+  "ja.datenschutz.controller.title": "管理責任者",
+  "ja.datenschutz.processing.title": "データ処理の概要",
+  "ja.datenschutz.processing.types": "処理されるデータの種類",
+  "ja.datenschutz.processing.masterData": "基本データ",
+  "ja.datenschutz.processing.contactData": "連絡先データ",
+  "ja.datenschutz.processing.contentData": "コンテンツデータ",
+  "ja.datenschutz.processing.usageData": "利用データ",
+  "ja.datenschutz.processing.metaData": "メタデータ・通信データ・処理データ",
+
+  "ja.datenschutz.cookies.title": "Cookie の使用について",
+  "ja.datenschutz.cookies.text": "Cookie は、端末に情報を保存したり読み取ったりする小さなテキストファイルです。当サイトでは、ウェブサイトの基本機能を維持するための必須 Cookie に加え、分析およびマーケティング Cookie（任意）を使用しています。Cookie の同意設定は、Cookie バナーからいつでも変更できます。",
+
+  "ja.datenschutz.booking.title": "Smoobu による予約管理",
+  "ja.datenschutz.booking.text": "予約処理には Smoobu（Smoobu GmbH, Wichertstr. 16, 10439 Berlin）を使用しています。予約時には、お客様のデータ（名前、連絡先、予約情報、支払い情報）が Smoobu に送信されます。処理は DSGVO 第6条1項(b)（契約履行）に基づきます。詳細は Smoobu のプライバシーポリシーをご覧ください：https://www.smoobu.com/de/datenschutz/",
+
+  "ja.datenschutz.hosting.title": "ホスティング",
+  "ja.datenschutz.hosting.text": "当ウェブサイトは Lovable / Vercel によってホストされています。ホスティングサービスには、インフラ・プラットフォームサービス、計算能力、ストレージ、データベースサービスが含まれます。ホスティング提供者とはデータ処理契約（AVV）を締結しています。",
+
+  "ja.datenschutz.rights.title": "データ主体の権利",
+  "ja.datenschutz.rights.text": "DSGVO に基づき、お客様には以下の権利があります：開示請求（Art.15）、訂正（Art.16）、削除（Art.17）、処理制限（Art.18）、データポータビリティ（Art.20）、異議申し立て（Art.21）。また、監督機関に苦情を申し立てる権利もあります。",
+
+  "ja.datenschutz.austria.title": "オーストリア国内のプライバシー規定",
+  "ja.datenschutz.austria.text": "DSGVO に加え、オーストリアでは国内のデータ保護法（DSG）が適用されます。これは個人データの処理に関する追加規定を定めています。",
+
+  "ja.datenschutz.contact.title": "お問い合わせ",
+  "ja.datenschutz.contact.text": "プライバシーに関するご質問がある場合は、以下までご連絡ください：",
+
+  "ja.cookies.title": "Cookie ポリシー",
+  "ja.cookies.intro": "ここでは、使用している Cookie の種類、目的、設定方法について説明します。",
+  "ja.cookies.what.title": "1. Cookie とは？",
+  "ja.cookies.what.text": "Cookie は、デバイスに保存される小さなテキストファイルで、ウェブサイトの機能維持や利用体験の向上に役立ちます。",
+
+  "ja.cookies.types.title": "2. 使用している Cookie の種類",
+  "ja.cookies.types.essential": "a) 必須 Cookie",
+  "ja.cookies.types.essentialText": "ウェブサイトの動作に不可欠な Cookie で、無効化することはできません。",
+  "ja.cookies.types.analytics": "b) 分析 Cookie",
+  "ja.cookies.types.analyticsText": "訪問者の利用状況を匿名で分析するための Cookie です。",
+  "ja.cookies.types.marketing": "c) マーケティング Cookie",
+  "ja.cookies.types.marketingText": "関連性の高いコンテンツや広告を表示するための Cookie です。第三者によって設定される場合があります。",
+  "ja.cookies.types.thirdParty": "d) サードパーティ Cookie（例：Smoobu）",
+  "ja.cookies.types.thirdPartyText": "予約機能のために外部サービス（Smoobu など）が独自の Cookie を設定する場合があります。",
+
+  "ja.cookies.basis.title": "3. 法的根拠",
+  "ja.cookies.basis.text": "必須 Cookie は正当な利益（DSGVO Art.6(1)(f)）に基づき使用されます。分析・マーケティング Cookie は同意（Art.6(1)(a)）が必要です。",
+
+  "ja.cookies.change.title": "4. Cookie 設定の変更",
+  "ja.cookies.change.text": "Cookie バナーからいつでも設定を変更できます。バナーが表示されない場合は、ブラウザの Cookie を削除すると再表示されます。",
+
+  "ja.cookies.contact.title": "5. お問い合わせ",
+
+  "ja.home.hero.title": "Ap zur Quelle へようこそ",
+  "ja.home.hero.subtitle": "ウィーンでのあなたの第二の家。快適・モダン・心温まる滞在を。",
+  "ja.home.hero.cta_book": "今すぐ予約",
+  "ja.home.hero.cta_about": "詳細を見る",
+
+  "ja.home.booking.title": "予約ポータル",
+  "ja.home.booking.subtitle": "理想のアパートメントを見つけて、直接予約できます。",
+  "ja.home.booking.minimum_stay": "最低宿泊日数：2泊",
+  "ja.home.booking.conditions_link": "予約条件",
+
+  "ja.home.apartments.title": "アパートメント一覧",
+  "ja.home.features.title": "設備一覧",
+  "ja.home.features.subtitle": "快適な滞在に必要なものがすべて揃っています。",
+  "ja.home.features.elevator": "エレベーター完備",
+  "ja.home.features.tv": "モダンなテレビ",
+  "ja.home.features.hair_dryer": "ヘアドライヤー",
+  "ja.home.features.wifi": "高速 Wi‑Fi",
+  "ja.home.features.cooking": "キッチン設備",
+  "ja.home.features.towels": "柔らかいタオル",
+
+  "ja.faq.section.title": "よくある質問",
+  "ja.faq.section.subtitle": "アパートメントに関する質問への回答をご覧いただけます。",
+
+  "ja.agb.title": "利用規約",
+  "ja.agb.intro": "本利用規約は、アパートメント zur Quelle のすべての予約および滞在に適用されます。",
+
+  "ja.agb.section1.title": "1. 適用範囲",
+  "ja.agb.section1.text": "本利用規約は、アパートメント zur Quelle に関するすべての予約・滞在・サービスに適用されます。予約完了時点で、ゲストは本規約に同意したものとみなされます。",
+
+  "ja.agb.section2.title": "2. 予約と支払い",
+  "ja.agb.section2.paragraph1": "予約手続きが完了し、確認が届いた時点で予約は確定します。",
+  "ja.agb.section2.paragraph2": "支払いは2段階です：予約時に20％のデポジット、残金80％はチェックイン7日前までにお支払いください。期限までに残金が支払われない場合、予約はキャンセルされる場合があります。",
+
+  "ja.agb.section3.title": "3. キャンセルポリシー",
+  "ja.agb.section3.paragraph1": "チェックイン7日前（14:00まで）であれば、デポジットは全額返金されます。",
+  "ja.agb.section3.paragraph2": "チェックイン7日前以降（14:00以降）のキャンセルは、予約金額の20％（デポジット相当）がキャンセル料となり、返金されません。",
+  "ja.agb.section3.paragraph3": "無断不泊（No-Show）の場合、予約金額全額が請求されます。",
+
+  "ja.agb.section4.title": "4. チェックイン & チェックアウト",
+  "ja.agb.section4.checkin": "チェックイン：14:00〜",
+  "ja.agb.section4.checkout": "チェックアウト：10:00まで",
+  "ja.agb.section4.text": "セルフチェックイン方式で、キーボックス（Lockbox）を使用します。アクセスコードは事前にお知らせします。",
+
+  "ja.agb.section5.title": "5. ハウスルール",
+  "ja.agb.section5.paragraph1": "滞在中のルール：最大2名、禁煙、ペット不可、パーティー禁止、22:00〜07:00は静粛時間、室内は丁寧に扱うこと、未登録の訪問者は禁止です。",
+  "ja.agb.section5.paragraph2": "出発前：使用済みタオルを集める、電気機器をオフにする、使用した食器を洗う、鍵をキーボックスに戻す、チェックアウトの連絡をする。",
+
+  "ja.agb.section6.title": "6. 損害と責任",
+  "ja.agb.section6.paragraph1": "滞在中にゲストまたは同行者が発生させた損害については、ゲストが責任を負います。損害が発生した場合は速やかにご連絡ください。",
+  "ja.agb.section6.paragraph2": "貴重品の紛失、個人所有物の損害、停電・インターネット障害などの不可抗力による損害について、ホストは責任を負いません。",
+
+  "ja.agb.section7.title": "7. 安全",
+  "ja.agb.section7.text": "室内には煙探知機と一酸化炭素探知機が設置されています。安全指示に従ってください。",
+
+  "ja.agb.section8.title": "8. プライバシー",
+  "ja.agb.section8.text": "プライバシーに関する情報は、当社のプライバシーポリシーをご覧ください。",
+
+  "ja.agb.section9.title": "9. 管轄裁判所",
+  "ja.agb.section9.text": "適用されるのはオーストリア法のみです。管轄裁判所はウィーンです。",
+
+  "ja.anleitungen.title": "滞在ガイド",
+  "ja.anleitungen.subtitle": "快適に滞在するために必要な情報をまとめています。",
+  "ja.anleitungen.viator.title": "ウィーン滞在のヒント",
+  "ja.anleitungen.viator.subtitle": "おすすめのツアー、チケット、見どころをご紹介します",
+  "ja.anleitungen.viator.cta": "今すぐ見る",
+  "ja.anleitungen.section.title": "滞在に必要な情報はこちら",
+
+  "ja.cookies.section1.title": "1. Cookie とは？",
+  "ja.cookies.section1.text": "Cookie はデバイスに保存される小さなテキストファイルで、ウェブサイトの機能維持や利用体験の向上に役立ちます。",
+
+  "ja.cookies.section2.title": "2. 使用している Cookie",
+  "ja.cookies.section2.essential": "a) 必須 Cookie",
+  "ja.cookies.section2.essential.text": "ウェブサイトの動作に不可欠な Cookie で、無効化できません。",
+  "ja.cookies.section2.analytics": "b) 分析 Cookie",
+  "ja.cookies.section2.analytics.text": "訪問者の利用状況を匿名で分析するための Cookie です。",
+  "ja.cookies.section2.marketing": "c) マーケティング Cookie",
+  "ja.cookies.section2.marketing.text": "関連性の高いコンテンツや広告を表示するための Cookie です。第三者によって設定される場合があります。",
+  "ja.cookies.section2.thirdparty": "d) サードパーティ Cookie（例：Smoobu）",
+  "ja.cookies.section2.thirdparty.text": "予約機能のために外部サービスが独自の Cookie を設定する場合があります。",
+
+  "ja.cookies.section3.title": "3. 法的根拠",
+  "ja.cookies.section3.text": "必須 Cookie は正当な利益（DSGVO Art.6(1)(f)）に基づきます。分析・マーケティング Cookie は同意（Art.6(1)(a)）が必要です。",
+
+  "ja.cookies.section4.title": "4. Cookie 設定の変更",
+  "ja.cookies.section4.text": "Cookie バナーからいつでも設定を変更できます。表示されない場合は、ブラウザの Cookie を削除すると再表示されます。",
+
+  "ja.impressum.section1.title": "コンテンツに関する責任",
+
+  "ja.apartments.hero.subtitle": "ウィーン中心部で理想の第二の家を見つけましょう。スタイル、快適さ、個性が詰まった空間です。",
+  "ja.apartment.not_found": "アパートメントが見つかりません",
+  "ja.apartment.back_to_apartments": "アパートメント一覧へ戻る",
+  "ja.apartment.persons": "人数",
+  "ja.apartment.from": "開始価格",
+  "ja.apartment.night": "泊",
+  "ja.apartment.person": "人",
+  "ja.apartment.amenities": "設備",
+  "ja.apartment.gallery": "ギャラリー",
+  "ja.apartment.show_all_images": "▼ すべての画像を表示",
+  "ja.apartment.show_less": "▲ 表示を少なくする",
+  "ja.apartment.book_now": "今すぐ予約",
+  "ja.apartment.book_now_modal": "今すぐ予約",
+  "ja.apartment.booking_conditions": "予約条件を見る",
+  "ja.apartment.card.view_details": "詳細を見る",
+  "ja.apartment.card.night": "泊",
+  "ja.apartment.card.from": "から",
+  "ja.apartment.card.persons": "人",
+  "ja.anleitungen.category.apartments": "アパートメント",
+  "ja.anleitungen.category.location": "ロケーション＆周辺",
+  "ja.anleitungen.back_to_all": "すべてのガイド",
+  "ja.anleitungen.pdf_download": "PDFとしてダウンロード",
+  "ja.anleitungen.pdf_description": "完全なガイドをPDFとしてダウンロードし、重要な情報をいつでも手に取ることができます。",
+  "ja.anleitungen.more_instructions": "その他のガイド",
+  "ja.anleitungen.show_all": "すべて表示",
+  "ja.promo.banner": "長く滞在して、料金を少なく! %%nights%%泊以上で最大%%percentage%%節約!",
+  "ja.voucher.banner.title": "ご予約で€%%value%%節約!",
+  "ja.voucher.banner.description": "プロモコード%%code%%を使用して、ご予約で€%%value%%の割引を受けてください。今すぐ予約して、素晴らしい価格で滞在をお楽しみください!"
+}
+

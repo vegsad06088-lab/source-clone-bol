@@ -1,0 +1,105 @@
+{
+  "id": "home",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Startseite", "en": "Home", "sq": "Faqja kryesore" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "home/hero.avif",
+      "title": { "de": "Willkommen bei Apartments zur Quelle", "en": "Welcome to Apartments zur Quelle", "sq": "Mirë se vini te Apartments zur Quelle" },
+      "subtitle": { "de": "Ihre Wohlfühloase im Herzen Wiens", "en": "Your feel-good oasis in the heart of Vienna", "sq": "Oaza juaj e rehatshme në zemër të Vjenës" },
+      "buttons": [
+        { "label": { "de": "Jetzt buchen", "en": "Book now", "sq": "Rezervo tani" }, "to": "/apartments", "variant": "primary" },
+        { "label": { "de": "Mehr erfahren", "en": "Learn more", "sq": "Mëso më shumë" }, "to": "/about", "variant": "outline" }
+      ]
+    },
+    {
+      "id": "booking",
+      "type": "booking",
+      "visible": true,
+      "title": { "de": "Direkt buchen", "en": "Book directly", "sq": "Rezervo drejtpërdrejt" },
+      "subtitle": { "de": "Überprüfen Sie die Verfügbarkeit und buchen Sie Ihren Aufenthalt", "en": "Check availability and book your stay", "sq": "Kontrolloni disponueshmërinë dhe rezervoni qëndrimin tuaj" },
+      "body": { "de": "Mindestaufenthalt 2 Nächte", "en": "Minimum stay 2 nights", "sq": "Qëndrimi minimium 2 netë" }
+    },
+    {
+      "id": "promo",
+      "type": "promo",
+      "visible": true
+    },
+    {
+      "id": "apartments",
+      "type": "apartment-list",
+      "visible": true,
+      "title": { "de": "Unsere Apartments", "en": "Our apartments", "sq": "Apartamentet tona" }
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "visible": true,
+      "title": { "de": "Ausstattung & Annehmlichkeiten", "en": "Amenities & features", "sq": "Pajisjet & komoditetet" },
+      "subtitle": { "de": "Alles, was Sie für einen angenehmen Aufenthalt brauchen", "en": "Everything you need for a comfortable stay", "sq": "Gjithçka që ju nevojitet për një qëndrim të rehatshëm" },
+      "items": [
+        { "id": "elevator", "visible": true, "image": "home/features/elevator.avif", "title": { "de": "Aufzug", "en": "Elevator", "sq": "Ashensor" } },
+        { "id": "tv", "visible": true, "image": "home/features/tv.avif", "title": { "de": "Fernseher", "en": "TV", "sq": "TV" } },
+        { "id": "hair-dryer", "visible": true, "image": "home/features/hair-dryer.avif", "title": { "de": "Föhn", "en": "Hair dryer", "sq": "Tharëse flokësh" } },
+        { "id": "wifi", "visible": true, "image": "home/features/wifi.avif", "title": { "de": "WLAN", "en": "Wi-Fi", "sq": "Wi-Fi" } },
+        { "id": "kitchen", "visible": true, "image": "home/features/kitchen.avif", "title": { "de": "Küche", "en": "Kitchen", "sq": "Kuzhinë" } },
+        { "id": "towels", "visible": true, "image": "home/features/towels.avif", "title": { "de": "Handtücher", "en": "Towels", "sq": "Peshqirë" } }
+      ]
+    },
+    {
+      "id": "sustainability-cta",
+      "type": "cta",
+      "visible": true,
+      "title": { "de": "Nachhaltig und komfortabel", "en": "Sustainable and comfortable", "sq": "E qëndrueshme dhe komode" },
+      "subtitle": { "de": "Entdecken Sie unsere umweltfreundlichen Apartments", "en": "Discover our eco-friendly apartments", "sq": "Zbuloni apartamentet tona miqësore me mjedisin" },
+      "buttons": [
+        { "label": { "de": "Entdecken", "en": "Discover", "sq": "Zbulo" }, "to": "/apartments", "variant": "primary" },
+        { "label": { "de": "Mehr erfahren", "en": "Learn more", "sq": "Mëso më shumë" }, "to": "/about", "variant": "outline" }
+      ]
+    },
+    {
+      "id": "why-us",
+      "type": "text",
+      "visible": true,
+      "title": { "de": "Warum bei uns übernachten?", "en": "Why stay with us?", "sq": "Pse të qëndroni tek ne?" },
+      "subtitle": { "de": "Persönliche Betreuung im Herzen Wiens", "en": "Personal care in the heart of Vienna", "sq": "Kujdes personal në zemër të Vjenës" },
+      "body": { "de": "Wir bieten Ihnen eine einzigartige Kombination aus zentraler Lage, persönlicher Betreuung und modernem Komfort. Jedes Apartment ist liebevoll eingerichtet und mit allem ausgestattet, was Sie für einen unvergesslichen Aufenthalt benötigen.", "en": "We offer you a unique combination of central location, personal care and modern comfort. Each apartment is lovingly furnished and equipped with everything you need for an unforgettable stay.", "sq": "Ju ofrojmë një kombinim unik të vendndodhjes qendrore, kujdesit personal dhe komoditetit modern. Çdo apartament është mobiluar me dashuri dhe i pajisur me gjithçka që ju nevojitet për një qëndrim të paharrueshëm." }
+    },
+    {
+      "id": "reviews",
+      "type": "reviews",
+      "visible": true,
+      "title": { "de": "Gästebewertungen", "en": "Guest reviews", "sq": "Vlerësimet e mysafirëve" },
+      "subtitle": { "de": "Was unsere Gäste über uns sagen", "en": "What our guests say about us", "sq": "Çfarë thonë mysafirët tanë për ne" },
+      "items": [
+        { "id": "r1", "visible": true, "title": { "de": "Wunderbare Erfahrung", "en": "Wonderful experience", "sq": "Përvojë e mrekullueshme" }, "description": { "de": "Petra aus Deutschland", "en": "Petra from Germany", "sq": "Petra nga Gjermania" } },
+        { "id": "r2", "visible": true, "title": { "de": "Tolle Lage, tolles Apartment", "en": "Great location, great apartment", "sq": "Vendndodhje e shkëlqyer, apartament i shkëlqyer" }, "description": { "de": "Luca aus Italien", "en": "Luca from Italy", "sq": "Luca nga Italia" } },
+        { "id": "r3", "visible": true, "title": { "de": "Sehr sauber und komfortabel", "en": "Very clean and comfortable", "sq": "Shumë i pastër dhe i rehatshëm" }, "description": { "de": "Sophie aus Frankreich", "en": "Sophie from France", "sq": "Sophie nga Franca" } }
+      ]
+    },
+    {
+      "id": "faq",
+      "type": "faq",
+      "visible": true,
+      "title": { "de": "Häufig gestellte Fragen", "en": "Frequently asked questions", "sq": "Pyetjet e shpeshta" },
+      "items": [
+        { "id": "f1", "visible": true, "title": { "de": "Wie kann ich buchen?", "en": "How can I book?", "sq": "Si mund të rezervoj?" }, "description": { "de": "Sie können direkt über unsere Website buchen oder uns kontaktieren.", "en": "You can book directly through our website or contact us.", "sq": "Mund të rezervoni drejtpërdrejt përmes faqes sonë të internetit ose të na kontaktoni." } },
+        { "id": "f2", "visible": true, "title": { "de": "Was kostet der Aufenthalt?", "en": "How much does a stay cost?", "sq": "Sa kushton qëndrimi?" }, "description": { "de": "Die Preise variieren je nach Apartment und Saison. Bitte überprüfen Sie die Verfügbarkeit für aktuelle Preise.", "en": "Prices vary depending on the apartment and season. Please check availability for current prices.", "sq": "Çmimet variojnë në varësi të apartamentit dhe sezonit. Ju lutemi kontrolloni disponueshmërinë për çmimet aktuale." } },
+        { "id": "f3", "visible": true, "title": { "de": "Sind Haustiere erlaubt?", "en": "Are pets allowed?", "sq": "A lejohen kafshët shtëpiake?" }, "description": { "de": "Leider können wir keine Haustiere aufnehmen.", "en": "Unfortunately we cannot accommodate pets.", "sq": "Fatkeqësisht nuk mund të presim kafshë shtëpiake." } }
+      ]
+    },
+    {
+      "id": "final-cta",
+      "type": "cta",
+      "visible": true,
+      "buttons": [
+        { "label": { "de": "Jetzt buchen", "en": "Book now", "sq": "Rezervo tani" }, "to": "/apartments", "variant": "primary" },
+        { "label": { "de": "Mehr erfahren", "en": "Learn more", "sq": "Mëso më shumë" }, "to": "/about", "variant": "outline" }
+      ]
+    }
+  ]
+}

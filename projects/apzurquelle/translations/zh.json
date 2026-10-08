@@ -1,0 +1,501 @@
+{
+  "zh.bookingConditions.title": "预订条款",
+  "zh.bookingConditions.intro": "请在预订前仔细阅读这些预订条款。",
+  "zh.bookingConditions.cancellation.title": "1. 取消政策",
+  "zh.bookingConditions.cancellation.free": "入住前 7 天（14:00 前）可免费取消。",
+  "zh.bookingConditions.cancellation.late": "入住前 7 天内取消，将收取预订金额的 20% 作为取消费用。",
+  "zh.bookingConditions.payment.title": "2. 支付方式",
+  "zh.bookingConditions.payment.methods": "可通过 Stripe 或 PayPal 支付。",
+  "zh.bookingConditions.deposit.title": "3. 定金与付款规则",
+  "zh.bookingConditions.deposit.first": "预订时需支付 20% 定金。",
+  "zh.bookingConditions.deposit.second": "剩余 80% 需在入住前 7 天最迟支付。",
+  "zh.bookingConditions.cleaning.title": "4. 清洁费",
+  "zh.bookingConditions.cleaning.text": "清洁费已包含在总价中。",
+  "zh.bookingConditions.cityTax.title": "5. 城市税",
+  "zh.bookingConditions.cityTax.text": "城市税已包含在总价中。",
+  "zh.bookingConditions.checkin.title": "6. 入住与退房",
+  "zh.bookingConditions.checkin.in": "入住时间：14:00 起",
+  "zh.bookingConditions.checkin.out": "退房时间：10:00 前",
+  "zh.bookingConditions.checkin.lockbox": "通过钥匙箱（Lockbox）自助入住。",
+  "zh.bookingConditions.more.title": "7. 更多信息",
+  "zh.bookingConditions.more.text": "完整的法律条款请参阅我们的",
+  "zh.bookingConditions.more.link": "使用条款",
+
+  "zh.amenities.accessible": "无障碍通道",
+  "zh.amenities.cooking_facilities": "炉灶",
+  "zh.amenities.fridge": "冰箱",
+  "zh.amenities.hair_dryer": "吹风机",
+  "zh.amenities.kettle": "电热水壶",
+  "zh.amenities.microwave": "微波炉",
+  "zh.amenities.non_smoking": "禁烟",
+  "zh.amenities.self_check_in": "自助入住",
+  "zh.amenities.shower": "淋浴",
+  "zh.amenities.soft_towels": "毛巾",
+  "zh.amenities.tv": "电视",
+  "zh.amenities.wifi_250_mbit": "250 Mbit/s",
+
+  "zh.apartments.cosy_couple_nest.beds": "1 张双人床",
+  "zh.apartments.cosy_couple_nest.description": "适合情侣或独行旅客的舒适双人床。",
+  "zh.apartments.cosy_couple_nest.long_description": "欢迎来到 Cosy Couple Nest —— 您在维也纳市中心的温馨小天地。公寓配备舒适的双人床，非常适合追求安静与舒适的情侣或独行旅客。\n\n客厅配有现代电视，让您在忙碌一天后轻松放松。高速免费 WiFi 让您随时保持连接，无论是工作还是娱乐。\n\n设备齐全的厨房包含冰箱、电热水壶、微波炉、烹饪设备及餐具，让您轻松准备喜爱的餐点。\n\n现代浴室配有淋浴，为您带来清爽的早晨或放松的夜晚。\n\nCosy Couple Nest：小巧精致，是您在维也纳的完美落脚点。",
+  "zh.apartments.cosy_couple_nest.name": "Cosy Couple Nest",
+  "zh.apartments.cosy_couple_nest.persons": "1–2 人",
+  "zh.apartments.cosy_couple_nest.rooms": "1 间",
+  "zh.apartments.cosy_couple_nest.section_title": "您在维也纳的温馨小窝",
+  "zh.apartments.cosy_couple_nest.size": "25㎡",
+
+  "zh.apartments.duo_deluxe_studio.beds": "1 张双人床",
+  "zh.apartments.duo_deluxe_studio.description": "适合情侣或独行旅客的现代双人床。",
+  "zh.apartments.duo_deluxe_studio.long_description": "欢迎来到 Duo Deluxe Studio —— 您在维也纳的时尚临时之家。公寓配备舒适的双人床，非常适合注重设计与功能性的旅客。\n\n客厅配有高品质电视，让您享受轻松的观影时光。高速免费 WiFi 让您随时保持连接。\n\n厨房设备齐全，包括冰箱、电热水壶、微波炉、烹饪设备及餐具，让您轻松自制餐点。\n\n现代浴室配有淋浴，为您在城市探索后带来舒适体验。\n\nDuo Deluxe Studio：时尚、现代，是您在维也纳的理想住宿选择。",
+  "zh.apartments.duo_deluxe_studio.name": "Duo Deluxe Studio",
+  "zh.apartments.duo_deluxe_studio.persons": "1–2 人",
+  "zh.apartments.duo_deluxe_studio.rooms": "1 间",
+  "zh.apartments.duo_deluxe_studio.section_title": "您在维也纳的豪华单间",
+  "zh.apartments.duo_deluxe_studio.size": "30㎡",
+
+  "zh.apartments.twin_harmony_suite.beds": "2 张单人床",
+  "zh.apartments.twin_harmony_suite.description": "两张舒适的单人床，适合朋友或同事入住。",
+  "zh.apartments.twin_harmony_suite.long_description": "欢迎来到 Twin Harmony Suite —— 两张舒适的单人床和谐布局，是朋友或同事入住的理想选择。\n\n客厅配有现代电视，让您享受电影或剧集。免费 WiFi 让您随时保持连接。\n\n厨房设备齐全，包括冰箱、电热水壶、微波炉、烹饪设备及餐具。\n\n现代浴室配有淋浴，为您带来放松体验。\n\nTwin Harmony Suite：您在活力维也纳的私人休憩空间。",
+  "zh.apartments.twin_harmony_suite.name": "Twin Harmony Suite",
+  "zh.apartments.twin_harmony_suite.persons": "1–2 人",
+  "zh.apartments.twin_harmony_suite.rooms": "2 间",
+  "zh.apartments.twin_harmony_suite.section_title": "您在维也纳的双床房体验",
+  "zh.apartments.twin_harmony_suite.size": "35㎡",
+
+  "zh.apartments.trio_harmony_suite.beds": "2 张单人床 + 1 张沙发床",
+  "zh.apartments.trio_harmony_suite.description": "两张舒适的单人床加一张沙发床，非常适合朋友、同事或小家庭。",
+  "zh.apartments.trio_harmony_suite.long_description": "欢迎来到 Trio Harmony Suite —— 配备两张单人床和一张沙发床，是朋友、同事或小家庭的理想选择。\n\n客厅配有现代电视，让您享受轻松的娱乐时光。免费 WiFi 让您随时保持连接。\n\n厨房设备齐全，包括冰箱、电热水壶、微波炉、烹饪设备及餐具。\n\n现代浴室配有淋浴，为您带来舒适体验。\n\nTrio Harmony Suite：您在维也纳的多功能休憩空间。",
+  "zh.apartments.trio_harmony_suite.name": "Trio Harmony Suite",
+  "zh.apartments.trio_harmony_suite.persons": "1–3 人",
+  "zh.apartments.trio_harmony_suite.rooms": "2 间",
+  "zh.apartments.trio_harmony_suite.section_title": "您在维也纳的三人房体验",
+  "zh.apartments.trio_harmony_suite.size": "35㎡",
+
+  "zh.amenities.towels": "毛巾",
+  "zh.amenities.refrigerator": "冰箱",
+  "zh.amenities.stove": "炉灶",
+
+  "zh.instructions.check_in_guizh.title": "入住指南",
+  "zh.instructions.check_in_guizh.description": "快速简易的自助入住说明，帮助您顺利进入公寓。",
+
+  "zh.instructions.iron_board.title": "熨斗与烫衣板",
+  "zh.instructions.iron_board.description": "熨斗和烫衣板位于一楼，请按照指示安全使用。",
+
+  "zh.instructions.parking_options.title": "停车选项",
+  "zh.instructions.parking_options.description": "停车无忧：我们提供地下车库及附近公共停车位，满足您的不同需求。",
+
+  "zh.instructions.check_out_guizh.title": "退房指南",
+  "zh.instructions.check_out_guizh.description": "我们希望您度过了愉快的时光！在您离开之前，请注意以下步骤。",
+
+  "zh.instructions.public_transport_vienna.title": "维也纳公共交通",
+  "zh.instructions.public_transport_vienna.description": "维也纳拥有完善而高效的公共交通网络，让您能够快速、便捷地在城市中出行。",
+
+  "zh.instructions.luggage_before_check_in.title": "入住前行李寄存",
+  "zh.instructions.luggage_before_check_in.description": "如果您的公寓尚未准备好，我们很乐意为您提供安全的行李寄存服务。",
+
+  "zh.instructions.luggage_after_check_out.title": "退房后行李寄存",
+  "zh.instructions.luggage_after_check_out.description": "退房后，您也可以将行李寄存在我们这里。",
+
+  "zh.instructions.heating_control.title": "供暖系统使用指南",
+  "zh.instructions.heating_control.description": "请按照以下步骤正确调节供暖系统。您也可以下载带有图片的 PDF 详细指南。",
+
+  "zh.instructions.tv_guizh.title": "电视使用指南",
+  "zh.instructions.tv_guizh.description": "这里提供简单的分步说明，帮助您使用公寓内的电视。",
+
+  "zh.instructions.induction_cooktop.title": "电磁炉使用指南",
+  "zh.instructions.induction_cooktop.description": "快速、安全地烹饪：了解如何正确使用电磁炉以及需要注意的事项。",
+
+  "zh.instructions.discover_vienna_kids.title": "🧸 与孩子一起探索维也纳",
+  "zh.instructions.discover_vienna_kids.description": "为您提供适合家庭的维也纳旅行建议——从景点到轻松的休息时刻。",
+
+  "zh.reviews.petra.text": "热情的接待",
+  "zh.reviews.petra.quote": "刚到达时，Nuhi 就用灿烂的笑容迎接了我们！这里的温暖与好客令人难忘。",
+  "zh.reviews.petra.location": "德国慕尼黑",
+
+  "zh.reviews.luca.text": "贴心的服务",
+  "zh.reviews.luca.quote": "当我们需要新的毛巾时，他们立刻为我们准备好了。这里的服务非常周到、令人惊喜！",
+  "zh.reviews.luca.location": "意大利",
+
+  "zh.reviews.sophie.text": "完美的位置",
+  "zh.reviews.sophie.quote": "中心位置让我们的城市之旅变得完美！几分钟内就能到达维也纳最热闹的区域。",
+  "zh.reviews.sophie.location": "瑞士苏黎世",
+
+  "zh.reviews.fam_welter.text": "Nuhi 的魅力",
+  "zh.reviews.fam_welter.quote": "Nuhi 不仅非常乐于助人，他的建议和友善让我们的住宿更加愉快。",
+  "zh.reviews.fam_welter.location": "德国纽伦堡",
+
+  "zh.reviews.tomasz.text": "温馨又现代！",
+  "zh.reviews.tomasz.quote": "舒适的氛围与现代化设施完美结合，我们的周末之旅非常完美！",
+  "zh.reviews.tomasz.location": "波兰华沙",
+
+  "zh.reviews.laura_tom.text": "纯粹的放松！",
+  "zh.reviews.laura_tom.quote": "公寓的舒适与安静令人印象深刻。是城市探索后真正的放松绿洲！",
+  "zh.reviews.laura_tom.location": "德国魏登",
+
+  "zh.faq.booking.q": "我如何预订公寓？",
+  "zh.faq.booking.a": "您可以直接通过我们的网站预订，或致电联系我们，我们很乐意为您提供帮助。",
+
+  "zh.faq.prices.q": "价格是按人计算还是按公寓计算？",
+  "zh.faq.prices.a": "所有价格均为公寓价格，而非按人计费，让您的规划更加简单。",
+
+  "zh.faq.amenities.q": "公寓提供哪些设施？",
+  "zh.faq.amenities.a": "所有公寓均配备厨房、带淋浴的浴室、客厅和卧室，为您提供全面的舒适体验。",
+
+  "zh.faq.pets.q": "允许携带宠物吗？",
+  "zh.faq.pets.a": "很抱歉，为了其他客人的舒适，公寓不允许携带宠物。",
+
+  "zh.faq.discounts.q": "长住是否有优惠？",
+  "zh.faq.discounts.a": "当然！我们为长住客人提供特别优惠，欢迎联系我们了解详情。",
+
+  "zh.faq.parking.q": "公寓是否提供停车？",
+  "zh.faq.parking.a": "是的，您可以额外预订地下车库车位，但需提前确认。",
+
+  "zh.features.elevator.title": "电梯可用",
+  "zh.features.elevator.desc": "轻松到达您的公寓。",
+
+  "zh.features.tv.title": "现代电视",
+  "zh.features.tv.desc": "享受多样化的电视节目。",
+
+  "zh.features.hairdryer.title": "吹风机",
+  "zh.features.hairdryer.desc": "旅行中也能保持完美造型。",
+
+  "zh.features.wifi.title": "高速 WiFi",
+  "zh.features.wifi.desc": "随时保持连接，免费上网。",
+
+  "zh.features.kitchen.title": "烹饪设施",
+  "zh.features.kitchen.desc": "轻松制作您喜爱的餐点。",
+
+  "zh.features.towels.title": "柔软毛巾",
+  "zh.features.towels.desc": "清新舒适，为您准备。",
+
+  "zh.home.sustainability.title": "可持续居住，时尚体验。",
+  "zh.home.sustainability.subtitle": "体验舒适与环保并存。我们的公寓采用可再生能源与可持续实践。",
+  "zh.home.sustainability.cta_discover": "探索公寓",
+
+  "zh.home.why_us.title": "为什么选择我们？",
+  "zh.home.why_us.subtitle": "体验真正的热情款待！享受个性化舒适与贴心服务。",
+  "zh.home.why_us.description": "我们采用地热与未来的太阳能技术，为您提供舒适且环保的住宿体验。",
+
+  "zh.home.reviews.title": "客人评价",
+  "zh.home.reviews.subtitle": "看看来自世界各地的客人为何喜爱我们的公寓！",
+
+  "zh.footer.brand_description": "您在维也纳的家。位置优越，设施现代。",
+  "zh.footer.quick_links": "快速链接",
+  "zh.footer.legal": "法律信息",
+  "zh.footer.contact": "联系",
+  "zh.footer.about": "关于我们",
+  "zh.footer.instructions": "指南",
+  "zh.footer.privacy_policy": "隐私政策",
+  "zh.footer.terms_conditions": "使用条款",
+  "zh.footer.booking_conditions": "预订条款",
+  "zh.footer.cookie_policy": "Cookie 政策",
+  "zh.footer.design_programming": "设计与开发：",
+
+  "zh.contact.success_message": "发送成功！我们会尽快与您联系。",
+  "zh.contact.write_us": "给我们写信",
+  "zh.contact.call_us": "给我们打电话",
+  "zh.contact.visit_us": "来访我们",
+  "zh.contact.recommendations_title": "我们为您在维也纳的旅程提供推荐。",
+  "zh.contact.message_placeholder": "您好，我想预订 9 月 3 日至 10 日的公寓，请问有空房吗？",
+  "zh.contact.privacy_agreement_part1": "我已阅读",
+  "zh.contact.privacy_agreement_part2": "并知悉",
+
+  "zh.contact.form.name": "姓名",
+  "zh.contact.form.name_placeholder": "Max Mustermann",
+  "zh.contact.form.email": "电子邮箱",
+  "zh.contact.form.phone": "电话",
+  "zh.contact.form.subject": "主题",
+  "zh.contact.form.subject_placeholder": "房间咨询",
+  "zh.contact.form.message": "您的留言",
+  "zh.contact.form.submit": "发送消息",
+
+  "zh.contact.hero.title": "联系我们",
+  "zh.contact.hero.subtitle": "无论是问题、预订还是特殊需求——我们都乐意为您提供帮助。",
+  "zh.contact.viator.subtitle": "探索最适合您旅程的热门景点、门票与活动",
+
+  "zh.navbar.home": "首页",
+  "zh.navbar.apartments": "公寓",
+  "zh.navbar.book_now": "立即预订",
+
+  "zh.about.hero.title": "我们的初心",
+  "zh.about.hero.subtitle": "在维也纳的脉动中，我们将现代舒适与可持续理念相结合。欢迎与我们一同踏上这段旅程。",
+  "zh.about.location.title": "我们在维也纳的位置",
+  "zh.about.location.subtitle": "维也纳的魅力与现代优雅在此交汇，是您探索城市的完美起点。",
+  "zh.about.location.open_map": "打开地图",
+
+  "zh.about.viator.title": "维也纳旅行建议",
+  "zh.about.viator.subtitle": "探索最适合您旅程的热门景点、门票与活动",
+
+  "zh.about.home.title": "您在维也纳的家",
+  "zh.about.home.description": "沉浸于维也纳的都市氛围，同时享受我们现代公寓的舒适与私密。每间房都经过精心设计，展现这座城市的活力。",
+  "zh.about.rooms.title": "让人放松的空间",
+  "zh.about.rooms.description": "我们深知旅途中拥有一个舒适的休憩之所多么重要。我们的公寓正是为此而打造。",
+
+  "zh.instructions.checkin.quote1": "在公寓入口左侧，您会看到一个键盘，可在此输入您的入门密码。",
+  "zh.instructions.checkin.quote2": "首先按下键盘上的“开机键”以激活它，然后输入我们提供给您的密码。",
+  "zh.instructions.checkin.quote3": "密码正确后，会亮起一个红点，表示门已解锁。",
+  "zh.instructions.checkin.quote4": "将门把手向左旋转即可开门。由于这是安全门，可能会稍微沉重，请在旋转后用力向自己拉开。",
+  "zh.instructions.checkin.quote5": "进入建筑后，请使用电梯前往您的公寓所在楼层。",
+  "zh.instructions.checkin.quote6": "在您的公寓门前有一个钥匙箱。输入我们提供的密码并向下按动把手即可取出钥匙。",
+
+  "zh.instructions.ironing.quote1": "熨斗和烫衣板位于公寓楼的一楼。从主入口直走，经过电梯后左侧即可看到烫衣板。",
+  "zh.instructions.ironing.quote2": "放下烫衣板：将右侧的挂钩向右旋转以解除固定，然后轻轻将烫衣板放下至水平位置。",
+  "zh.instructions.ironing.quote3": "准备熨斗：将熨斗插上电源，如需蒸汽功能可加水。\n\n熨烫：调节熨斗温度，待其加热后即可在烫衣板上熨烫衣物。\n\n使用后：关闭熨斗并拔掉电源，待其冷却后将烫衣板折起并重新固定。",
+
+  "zh.instructions.parking.heading": "停车选项与实用提示",
+  "zh.instructions.parking.quote1": "地下车库\n\n我们的地下车库适合小型车辆（如 VW Golf）。由于车库门需手动开启，请提前预约并告知预计到达时间。停车费用：汽车每天 10 欧元，摩托车每天 5 欧元，自行车免费。",
+  "zh.instructions.parking.quote2": "公共停车位\n\n公寓周边有公共停车位。工作日 9:00–22:00 收费，22:00–9:00 免费；周末全天免费。停车票可通过“EasyPark”手机应用购买。",
+
+  "zh.instructions.checkout.text1": "我们希望您度过了愉快的住宿体验！在您离开前，请按照以下步骤协助我们为下一位客人做好准备：",
+  "zh.instructions.checkout.quote1": "收集使用过的毛巾：\n\n请将所有使用过的毛巾收集并放置在浴室地板上，以便我们识别需要更换的毛巾。",
+  "zh.instructions.checkout.quote2": "关闭设备并关好窗户：\n\n请关闭所有电器（电视、厨房设备等），并确保所有窗户已关闭，以节省能源并确保安全。",
+  "zh.instructions.checkout.quote3": "归还钥匙：\n\n请将钥匙放回公寓门前的钥匙箱，并确保锁好。",
+  "zh.instructions.checkout.quote4": "其他说明：\n\n- 请在退房前清洗您使用过的餐具，以便我们更高效地完成清洁工作。\n\n- 退房时请简单告知我们，以便我们及时为下一位客人准备房间。非常感谢您的配合！",
+  "zh.instructions.checkout.text2": "感谢您的入住，祝您旅途平安，期待再次欢迎您！",
+  "zh.instructions.publictransport.heading": "维也纳公共交通使用指南",
+  "zh.instructions.publictransport.text1": "维也纳拥有完善而高效的公共交通网络，让您能够快速、便捷地在城市中出行。为了找到最佳路线，我们推荐使用维也纳交通局（Wiener Linien）的路线规划器。",
+  "zh.instructions.publictransport.quote1": "使用维也纳交通局路线规划器\n\n请访问维也纳交通局的官方路线规划页面：",
+  "zh.instructions.publictransport.linktext1": "维也纳交通局路线规划器",
+  "zh.instructions.publictransport.quote2": "开始规划您的行程\n\n请输入您的当前位置（起点），并将目的地设为“Absberggasse 6”。路线规划器将为您显示最快、最便捷的路线，无论是前往我们这里还是前往维也纳的其他目的地。",
+  "zh.instructions.publictransport.quote3": "公共交通的优势\n\n- 覆盖广、班次密集：维也纳交通局提供地铁、有轨电车和公交车，覆盖全城。\n\n- 实时信息：路线规划器不仅显示最佳路线，还提供实时发车信息和延误提示。\n\n- 适用于各种行程：无论您是来我们这里，还是在城市中移动，公共交通都能让您轻松抵达目的地。",
+  "zh.instructions.publictransport.quote4": "车票与价格\n\n您可以在地铁站的自动售票机、烟草店（Trafik）、维也纳Mobil App 或维也纳交通局官网购买车票。车票类型包括单程票、24/48 小时票以及周票等。",
+  "zh.instructions.publictransport.quote5": "问题或帮助\n\n如果您在使用公共交通时有任何问题，或需要路线规划帮助，我们随时乐意为您服务。",
+  "zh.instructions.publictransport.text2": "通过本指南，您可以轻松、安全地到达目的地，尽情享受维也纳之旅。",
+
+  "zh.instructions.baggagestorage_before.text1": "如果您在官方入住时间（14:00）之前抵达维也纳，携带行李可能会不便。因此，如果您的公寓尚未准备好，我们很乐意为您提供安全的行李寄存服务。",
+  "zh.instructions.baggagestorage_before.quote1": "10 点起可寄存行李\n\n从 10 点开始，我们的清洁人员会在楼内为下一位客人准备公寓。您可以进入建筑并使用电梯寻找清洁人员。他们通常从高楼层开始工作，然后逐层往下。我们建议您从上层开始寻找。",
+  "zh.instructions.baggagestorage_before.quote2": "通知工作人员\n\n找到清洁人员后，请告知您的公寓号码。他们会协助您安全寄存行李，直到入住时间。",
+  "zh.instructions.baggagestorage_before.text2": "我们希望此安排能让您更方便。如果您有任何问题或需要帮助，请随时联系我们。",
+
+  "zh.instructions.baggagestorage_after.text1": "退房后，您也可以将行李寄存在我们这里。为了确保流程顺畅，请注意以下事项：",
+  "zh.instructions.baggagestorage_after.quote1": "🕘 9:00 前退房：如果您在 9 点前退房并希望寄存行李，请务必提前告知我们。请将行李放在您公寓门外的走廊区域。",
+  "zh.instructions.baggagestorage_after.quote2": "🕘 9:00 后退房：清洁团队已在楼内工作。请主动寻找清洁人员并将行李交给他们，他们会帮您放入储物间。",
+  "zh.instructions.baggagestorage_after.quote3": "🎒 行李取回：最晚至 14:45！请在楼层或一楼熨烫室找到清洁人员协助取回行李——请勿自行进入其他公寓。14:45 后无人值守，无法再取回行李。您也可以选择使用中央火车站的储物柜。",
+  "zh.instructions.baggagestorage_after.text2": "我们希望此安排能让您的旅程更加轻松。如果您有任何问题或需要进一步帮助，请随时联系我们。",
+
+  "zh.instructions.heating.text1": "使用 Danfoss TPOne 温控器，您可以轻松调节公寓内的温度。请按照以下步骤正确设置供暖。您也可以下载带图片的 PDF 详细指南。",
+  "zh.instructions.heating.quote1": "开启与关闭供暖\n\n按下温控器上的开/关按钮即可开启供暖。更详细的图文步骤可在 PDF 中查看。",
+  "zh.instructions.heating.quote2": "调节温度\n\n使用显示屏上的箭头键提高或降低室温。当前温度会显示在屏幕上。\n\n推荐温度：白天 21–22°C，夜间 18–19°C，以获得最佳舒适度。",
+  "zh.instructions.heating.quote3": "使用舒适模式\n\n温控器提供三种模式：\n\n- 在家：保持舒适温度\n- 外出：节省能源\n- 睡眠：夜间较凉爽的温度",
+  "zh.instructions.heating.quote4": "手动调节温度\n\n您可以随时手动调整预设温度，只需按下箭头键即可。",
+  "zh.instructions.heating.quote5": "待机模式\n\n长时间外出时，可将温控器设置为待机模式。",
+  "zh.instructions.heating.quote6": "节能功能\n\n注意叶子图标，它表示节能设置已启用。",
+  "zh.instructions.heating.quote7": "窗户传感器\n\n当窗户打开时，温控器会自动将供暖切换至待机模式，以节省能源。",
+  "zh.instructions.heating.text2": "提示：您可以在此下载带图片的原版 PDF 指南，以更好地了解温控器的使用方法。",
+
+  "zh.instructions.tv.text1": "有时之前的客人可能更改了电视设置。",
+  "zh.instructions.tv.text2": "别担心——恢复正确设置非常简单！您可以下载 PDF 图文指南，按照步骤快速调整电视。",
+
+  "zh.instructions.kids.text1": "维也纳对家庭游客也非常友好。如果您带着孩子旅行，最美好的体验往往不是繁忙的行程，而是轻松有趣的地方。以下是一些适合家庭的维也纳活动建议。",
+  "zh.instructions.kids.quote1": "美泉宫（Schönbrunn）是带孩子出行的绝佳选择\n\n这里不仅有宫殿，还有儿童博物馆、迷宫和大型户外游乐区。",
+  "zh.instructions.kids.linktext1": "购买门票",
+  "zh.instructions.kids.quote2": "普拉特公园（Prater）让一天充满活力\n\n这里有适合大小朋友的游乐设施，维也纳摩天轮还提供家庭票。",
+  "zh.instructions.kids.quote3": "技术博物馆（Technisches Museum）充满惊喜\n\n非常适合天气不佳的日子，馆内有许多适合儿童和家庭的互动展区。",
+  "zh.instructions.kids.quote4": "从高处欣赏维也纳\n\n多瑙塔（Donauturm）提供 360° 全景视野，并设有高空滑梯，深受孩子喜爱。",
+  "zh.instructions.kids.linktext2": "购买门票",
+  "zh.instructions.kids.quote5": "旅途中小憩\n\n带孩子旅行时，休息同样重要。LUNIMO 的儿童音乐非常适合放松或一起唱歌的时刻。\n\n💛🎵 可在 Spotify、Apple Music、YouTube、Amazon Music 收听",
+  "zh.instructions.kids.quote6": "家庭旅行小贴士\n\n在维也纳，带孩子旅行不必看遍所有景点。每天安排一到两个亮点，并留出休息时间，会让旅程更愉快。",
+  "zh.instructions.kids.text2": "祝您和家人在维也纳度过美好而轻松的时光！",
+
+  "zh.impressum.intro": "这里包含关于 Apartments zur Quelle 的所有重要法律信息和联系方式。我们致力于透明与清晰。",
+  "zh.impressum.contact.title": "联系",
+  "zh.impressum.info.title": "信息",
+  "zh.impressum.info.management": "管理负责人：Christine Führer",
+  "zh.impressum.info.businessPurpose": "公司业务范围：为客人提供度假公寓住宿服务",
+  "zh.impressum.info.registrationNumber": "公司注册号",
+  "zh.impressum.info.registrationCourt": "注册法院",
+  "zh.impressum.info.registeredOffice": "公司所在地",
+  "zh.impressum.info.memberOf": "会员于",
+  "zh.impressum.info.professionalGroup": "职业类别",
+  "zh.impressum.info.mediaOwner": "媒体所有者：Christine Führer GmbH",
+  "zh.impressum.design": "程序开发",
+
+  "zh.impressum.liability.title": "责任与数据保护",
+  "zh.impressum.liability.content": "责任与数据保护",
+
+  "zh.impressum.section1": "1. 内容说明",
+  "zh.impressum.section1.text": "本网站内容仅供参考。所有文字与信息均基于最佳知识与认真态度撰写，但部分内容包含建议性质，因此无法保证其绝对准确性或完整性。",
+
+  "zh.impressum.section2": "2. 数据保护",
+  "zh.impressum.section2.text": "有关数据保护的详细信息，请参阅我们的",
+  "zh.impressum.section2.link": "隐私政策",
+
+  "zh.impressum.section3": "3. 外部链接",
+  "zh.impressum.section3.text": "对于外部链接页面的内容，我们不承担任何责任。所有链接在设置时均经过仔细检查，但无法持续监控其内容变化。",
+
+  "zh.impressum.odr.title": "在线争议解决",
+  "zh.impressum.odr.text": "消费者可通过欧盟在线争议解决平台提交投诉：",
+
+  "zh.datenschutz.title": "隐私政策",
+  "zh.datenschutz.subtitle": "我们致力于保护您的隐私与数据安全",
+
+  "zh.datenschutz.preamble.title": "前言",
+  "zh.datenschutz.preamble.text": "通过本隐私声明，我们希望向您说明我们会以何种方式、出于哪些目的以及在何种范围内处理您的个人数据（以下简称“数据”）。本隐私声明适用于我们所有的数据处理活动，包括网站、移动应用程序以及社交媒体平台上的数据处理。",
+  "zh.datenschutz.preamble.lastUpdated": "更新日期：2026 年 3 月",
+
+  "zh.datenschutz.controller.title": "数据负责人",
+  "zh.datenschutz.processing.title": "数据处理概览",
+  "zh.datenschutz.processing.types": "处理的数据类型",
+  "zh.datenschutz.processing.masterData": "基本数据",
+  "zh.datenschutz.processing.contactData": "联系方式数据",
+  "zh.datenschutz.processing.contentData": "内容数据",
+  "zh.datenschutz.processing.usageData": "使用数据",
+  "zh.datenschutz.processing.metaData": "元数据、通信数据与流程数据",
+
+  "zh.datenschutz.cookies.title": "Cookie 的使用",
+  "zh.datenschutz.cookies.text": "Cookie 是存储在终端设备上的小型文本文件，用于保存和读取信息。我们使用必要的 Cookie 来确保网站的基本功能，并可选使用分析与营销 Cookie。您可随时通过 Cookie 横幅管理您的同意设置。",
+
+  "zh.datenschutz.booking.title": "通过 Smoobu 进行预订管理",
+  "zh.datenschutz.booking.text": "我们使用 Smoobu 软件（Smoobu GmbH, Wichertstr. 16, 10439 Berlin）处理预订。当您进行预订时，您的数据（姓名、联系方式、预订信息、支付信息）将被传输至 Smoobu。处理依据 DSGVO 第 6 条第 1 款 b 项（合同履行）。更多信息请参阅 Smoobu 的隐私政策：https://www.smoobu.com/de/datenschutz/。",
+
+  "zh.datenschutz.hosting.title": "网站托管",
+  "zh.datenschutz.hosting.text": "本网站由 Lovable / Vercel 托管。托管服务包括基础设施、平台服务、计算能力、存储空间与数据库服务。我们已与托管服务商签订数据处理协议（AVV）。",
+
+  "zh.datenschutz.rights.title": "数据主体的权利",
+  "zh.datenschutz.rights.text": "根据 DSGVO，您享有以下权利：访问权（第 15 条）、更正权（第 16 条）、删除权（第 17 条）、限制处理权（第 18 条）、数据可携权（第 20 条）、反对权（第 21 条）。此外，您有权向数据保护监管机构投诉。",
+
+  "zh.datenschutz.austria.title": "奥地利国家数据保护法规",
+  "zh.datenschutz.austria.text": "除 DSGVO 外，奥地利还适用国家数据保护法规，特别是《数据保护法》（DSG）。",
+
+  "zh.datenschutz.contact.title": "联系",
+  "zh.datenschutz.contact.text": "如您对数据保护有任何疑问，请通过以下方式联系我们：",
+
+  "zh.cookies.title": "Cookie 政策",
+  "zh.cookies.intro": "在此我们解释使用哪些 Cookie、为何使用它们以及如何管理您的设置。",
+  "zh.cookies.what.title": "1. 什么是 Cookie？",
+  "zh.cookies.what.text": "Cookie 是存储在您设备上的小型文本文件，有助于保持网站正常运行并提升您的使用体验。",
+
+  "zh.cookies.types.title": "2. 我们使用哪些 Cookie？",
+  "zh.cookies.types.essential": "a) 必要 Cookie",
+  "zh.cookies.types.essentialText": "这些 Cookie 对网站功能至关重要，无法禁用。",
+  "zh.cookies.types.analytics": "b) 分析 Cookie",
+  "zh.cookies.types.analyticsText": "这些 Cookie 帮助我们了解访客如何使用网站，数据将匿名分析。",
+  "zh.cookies.types.marketing": "c) 营销 Cookie",
+  "zh.cookies.types.marketingText": "这些 Cookie 用于向您展示相关内容或优惠，可能由第三方设置。",
+  "zh.cookies.types.thirdParty": "d) 第三方 Cookie（如 Smoobu）",
+  "zh.cookies.types.thirdPartyText": "为提供预订功能，我们使用外部服务，这些服务可能设置自己的 Cookie。",
+
+  "zh.cookies.basis.title": "3. 法律依据",
+  "zh.cookies.basis.text": "必要 Cookie 基于我们的合法利益（DSGVO 第 6 条第 1 款 f 项）。分析与营销 Cookie 仅在您同意后使用（第 6 条第 1 款 a 项）。",
+
+  "zh.cookies.change.title": "4. 更改 Cookie 设置",
+  "zh.cookies.change.text": "您可随时通过 Cookie 横幅调整设置。如未显示，请清除浏览器 Cookie 以重新出现。",
+
+  "zh.cookies.contact.title": "5. 联系方式",
+
+  "zh.home.hero.title": "欢迎来到 Ap zur Quelle",
+  "zh.home.hero.subtitle": "您在维也纳的临时之家——舒适、现代、温馨。",
+  "zh.home.hero.cta_book": "立即预订",
+  "zh.home.hero.cta_about": "了解更多",
+
+  "zh.home.booking.title": "预订中心",
+  "zh.home.booking.subtitle": "找到适合您的完美公寓并直接预订。",
+  "zh.home.booking.minimum_stay": "最少入住：2 晚",
+  "zh.home.booking.conditions_link": "预订条款",
+
+  "zh.home.apartments.title": "我们的公寓",
+  "zh.home.features.title": "我们的设施",
+  "zh.home.features.subtitle": "为您的舒适入住提供一切所需。",
+  "zh.home.features.elevator": "电梯可用",
+  "zh.home.features.tv": "现代电视",
+  "zh.home.features.hair_dryer": "吹风机",
+  "zh.home.features.wifi": "高速 WLAN",
+  "zh.home.features.cooking": "烹饪设施",
+  "zh.home.features.towels": "柔软毛巾",
+
+  "zh.faq.section.title": "常见问题",
+  "zh.faq.section.subtitle": "在这里找到关于我们公寓的常见问题解答。",
+
+  "zh.agb.title": "一般条款与条件（使用条款）",
+  "zh.agb.intro": "以下一般条款适用于在 Apartments zur Quelle 的所有预订与入住。",
+  "zh.agb.section1.title": "1. 适用范围",
+  "zh.agb.section1.text": "本一般条款（使用条款）适用于所有与 Apartments zur Quelle 度假公寓相关的预订、入住与服务。完成预订即表示客人接受这些条款。",
+
+  "zh.agb.section2.title": "2. 预订与付款",
+  "zh.agb.section2.paragraph1": "当客人完成预订流程并收到确认后，预订即具有约束力。",
+  "zh.agb.section2.paragraph2": "付款分两步进行：预订时支付 20% 定金（通过 Stripe 或 PayPal），剩余 80% 需在入住前 7 天最迟支付。如未按时支付余额，我们保留取消预订的权利。",
+
+  "zh.agb.section3.title": "3. 取消政策",
+  "zh.agb.section3.paragraph1": "入住前 7 天（14:00 前）取消，可全额退还定金。",
+  "zh.agb.section3.paragraph2": "入住前 7 天内（14:00 后）取消，将收取预订金额 20% 的取消费用（即定金），定金不予退还。",
+  "zh.agb.section3.paragraph3": "未取消且未到达（No-Show）将收取全额费用。",
+
+  "zh.agb.section4.title": "4. 入住与退房",
+  "zh.agb.section4.checkin": "入住时间：14:00 起",
+  "zh.agb.section4.checkout": "退房时间：10:00 前",
+  "zh.agb.section4.text": "入住通过钥匙箱（Lockbox）自助完成，入住密码将在到达前提供。",
+
+  "zh.agb.section5.title": "5. 房屋守则",
+  "zh.agb.section5.paragraph1": "入住期间：最多 2 位客人；禁止吸烟；禁止携带宠物；禁止派对或活动；安静时间为 22:00–07:00；请爱护公寓；禁止未登记访客进入。",
+  "zh.agb.section5.paragraph2": "离开前：收集使用过的毛巾、关闭灯光与电器、清洗使用过的餐具、将钥匙放回钥匙箱，并告知我们您已退房。",
+
+  "zh.agb.section6.title": "6. 损坏与责任",
+  "zh.agb.section6.paragraph1": "客人需对入住期间由本人或同行人员造成的任何损坏负责，并须立即报告。",
+  "zh.agb.section6.paragraph2": "房东不对贵重物品遗失、个人物品损坏或因不可抗力（如停电、网络故障）造成的损失负责。",
+
+  "zh.agb.section7.title": "7. 安全",
+  "zh.agb.section7.text": "公寓配备烟雾报警器与一氧化碳报警器，请遵守所有安全指示。",
+
+  "zh.agb.section8.title": "8. 数据保护",
+  "zh.agb.section8.text": "有关数据保护的信息，请参阅我们的隐私政策。",
+
+  "zh.agb.section9.title": "9. 管辖权",
+  "zh.agb.section9.text": "仅适用奥地利法律，管辖法院为维也纳。",
+
+  "zh.anleitungen.title": "入住指南",
+  "zh.anleitungen.subtitle": "您需要了解的一切，让您的入住更轻松。",
+  "zh.anleitungen.viator.title": "维也纳旅行建议",
+  "zh.anleitungen.viator.subtitle": "探索最佳行程、门票与亮点",
+  "zh.anleitungen.viator.cta": "立即探索",
+  "zh.anleitungen.section.title": "您需要知道的所有信息。",
+
+  "zh.cookies.section1.title": "1. 什么是 Cookie？",
+  "zh.cookies.section1.text": "Cookie 是存储在您设备上的小型文本文件，有助于保持网站正常运行并提升您的使用体验。",
+
+  "zh.cookies.section2.title": "2. 我们使用哪些 Cookie？",
+  "zh.cookies.section2.essential": "a) 必要 Cookie",
+  "zh.cookies.section2.essential.text": "这些 Cookie 对网站功能至关重要，无法禁用。",
+  "zh.cookies.section2.analytics": "b) 分析 Cookie",
+  "zh.cookies.section2.analytics.text": "这些 Cookie 帮助我们了解访客如何使用网站，数据将匿名分析。",
+  "zh.cookies.section2.marketing": "c) 营销 Cookie",
+  "zh.cookies.section2.marketing.text": "这些 Cookie 用于向您展示相关内容或优惠，可能由第三方设置。",
+  "zh.cookies.section2.thirdparty": "d) 第三方 Cookie（如 Smoobu）",
+  "zh.cookies.section2.thirdparty.text": "为提供预订功能，我们使用外部服务，这些服务可能设置自己的 Cookie。",
+
+  "zh.cookies.section3.title": "3. 法律依据",
+  "zh.cookies.section3.text": "必要 Cookie 基于我们的合法利益（DSGVO 第 6 条第 1 款 f 项）。分析与营销 Cookie 仅在您同意后使用（第 6 条第 1 款 a 项）。",
+
+  "zh.cookies.section4.title": "4. 更改 Cookie 设置",
+  "zh.cookies.section4.text": "您可随时通过 Cookie 横幅调整设置。如未显示，请清除浏览器 Cookie 以重新出现。",
+
+  "zh.impressum.section1.title": "内容责任",
+
+  "zh.apartments.hero.subtitle": "在维也纳中心找到您的完美临时之家——风格、舒适与个性兼具。",
+  "zh.apartment.not_found": "未找到公寓",
+  "zh.apartment.back_to_apartments": "返回公寓列表",
+  "zh.apartment.persons": "人数",
+  "zh.apartment.from": "起价",
+  "zh.apartment.night": "每晚",
+  "zh.apartment.person": "人",
+  "zh.apartment.amenities": "设施",
+  "zh.apartment.gallery": "图库",
+  "zh.apartment.show_all_images": "▼ 显示所有图片",
+  "zh.apartment.show_less": "▲ 收起图片",
+  "zh.apartment.book_now": "立即预订",
+  "zh.apartment.book_now_modal": "立即预订",
+  "zh.apartment.booking_conditions": "查看预订条款",
+  "zh.apartment.card.view_details": "查看详情",
+  "zh.apartment.card.night": "晚上",
+  "zh.apartment.card.from": "从",
+  "zh.apartment.card.persons": "人",
+  "zh.anleitungen.category.apartments": "公寓",
+  "zh.anleitungen.category.location": "位置和周边",
+  "zh.anleitungen.back_to_all": "所有指南",
+  "zh.anleitungen.pdf_download": "下载为PDF",
+  "zh.anleitungen.pdf_description": "下载完整指南的PDF版本，随时随地获取所有重要信息。",
+  "zh.anleitungen.more_instructions": "更多指南",
+  "zh.anleitungen.show_all": "显示全部",
+  "zh.promo.banner": "住得更久，付费更少！%%nights%%晚或以上最多节省%%percentage%%！",
+  "zh.voucher.banner.title": "预订可节省€%%value%%！",
+  "zh.voucher.banner.description": "使用促销代码%%code%%，预订可获得€%%value%%折扣。立即预订，享受优惠价格！"
+}
+

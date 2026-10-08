@@ -1,0 +1,37 @@
+{
+  "id": "contact",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Kontakt", "en": "Contact", "sq": "Kontakt" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "contact/hero.avif",
+      "className": "min-h-[50vh]",
+      "title": { "de": "Kontakt aufnehmen", "en": "Get in touch", "sq": "Na kontaktoni" },
+      "subtitle": { "de": "Wir freuen uns auf Ihre Nachricht", "en": "We look forward to your message", "sq": "Presim mesazhin tuaj" }
+    },
+    {
+      "id": "contact-info",
+      "type": "contact-info",
+      "visible": true,
+      "items": [
+        { "id": "mail", "visible": true, "title": { "de": "Schreiben Sie uns", "en": "Write to us", "sq": "Na shkruani" }, "description": { "de": "mailto:info@ap-zur-quelle.at", "en": "mailto:info@ap-zur-quelle.at", "sq": "mailto:info@ap-zur-quelle.at" }, "image": "info@ap-zur-quelle.at" },
+        { "id": "phone", "visible": true, "title": { "de": "Rufen Sie uns an", "en": "Call us", "sq": "Na telefononi" }, "description": { "de": "tel:+43676842287105", "en": "tel:+43676842287105", "sq": "tel:+43676842287105" }, "image": "+43 676 842 287 105" },
+        { "id": "map", "visible": true, "title": { "de": "Besuchen Sie uns", "en": "Visit us", "sq": "Na vizitoni" }, "description": { "de": "https://www.google.com/maps/place/Apartments+zur+Quelle", "en": "https://www.google.com/maps/place/Apartments+zur+Quelle", "sq": "https://www.google.com/maps/place/Apartments+zur+Quelle" }, "image": "Absberggasse 6, 1100 Wien" }
+      ]
+    },
+    {
+      "id": "viator",
+      "type": "viator",
+      "visible": true,
+      "title": { "de": "Touren & Aktivitäten in Wien", "en": "Tours & activities in Vienna", "sq": "Ture & aktivitete në Vjenë" },
+      "subtitle": { "de": "Entdecken Sie Wien mit Viator", "en": "Discover Vienna with Viator", "sq": "Zbuloni Vjenën me Viator" },
+      "buttons": [
+        { "label": { "de": "Jetzt entdecken", "en": "Discover now", "sq": "Zbulo tani" }, "href": "https://www.viator.com" }
+      ]
+    }
+  ]
+}

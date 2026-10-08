@@ -1,0 +1,64 @@
+{
+  "id": "about",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Über uns", "en": "About us", "sq": "Rreth nesh" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "about/hero.jpg",
+      "title": { "de": "Apartments zur Quelle", "en": "Apartments zur Quelle", "sq": "Apartments zur Quelle" },
+      "subtitle": { "de": "Ihr Zuhause in Wien", "en": "Your home in Vienna", "sq": "Shtëpia juaj në Vjenë" }
+    },
+    {
+      "id": "location",
+      "type": "map",
+      "visible": true,
+      "title": { "de": "Unsere Lage", "en": "Our location", "sq": "Vendndodhja jonë" },
+      "subtitle": { "de": "Zentral gelegen in Wien", "en": "Centrally located in Vienna", "sq": "I vendosur qendër në Vjenë" },
+      "backgroundImage": "about/location.avif",
+      "data": {
+        "mapUrl": "https://www.google.com/maps/place/Apartments+zur+Quelle/@48.1735058,16.3894297,646m/data=!3m3!1e3!4b1!5s0x476da9e9bb558713:0x62207c3e1bf1362d!4m6!3m5!1s0x2ad883a0300fc9ed:0xed842bf85b14b5dc!8m2!3d48.1735058!4d16.3894297!16s%2Fg%2F11vc6dg9hv"
+      },
+      "body": { "de": "Absberggasse 6, 1100 Wien, Österreich", "en": "Absberggasse 6, 1100 Vienna, Austria", "sq": "Absberggasse 6, 1100 Vjenë, Austri" }
+    },
+    {
+      "id": "viator",
+      "type": "viator",
+      "visible": true,
+      "title": { "de": "Touren & Aktivitäten in Wien", "en": "Tours & activities in Vienna", "sq": "Ture & aktivitete në Vjenë" },
+      "subtitle": { "de": "Entdecken Sie Wien mit Viator", "en": "Discover Vienna with Viator", "sq": "Zbuloni Vjenën me Viator" },
+      "buttons": [
+        { "label": { "de": "Jetzt entdecken", "en": "Discover now", "sq": "Zbulo tani" }, "href": "https://www.viator.com" }
+      ]
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "visible": true,
+      "title": { "de": "Ein Zuhause fern vom Zuhause", "en": "A home away from home", "sq": "Një shtëpi larg shtëpisë" },
+      "body": { "de": "Wir bieten Ihnen gemütliche, voll ausgestattete Apartments im Herzen Wiens. Jedes Apartment wurde mit Liebe zum Detail eingerichtet und bietet Ihnen allen Komfort eines modernen Zuhauses.", "en": "We offer you cozy, fully equipped apartments in the heart of Vienna. Each apartment has been furnished with attention to detail and offers you all the comforts of a modern home.", "sq": "Ju ofrojmë apartamente komode, të pajisura plotësisht në zemër të Vjenës. Çdo apartament është mobiluar me kujdes ndaj detajeve dhe ju ofron të gjitha komoditetet e një shtëpie moderne." },
+      "subtitle": { "de": "Moderne Räume mit Wiener Charme", "en": "Modern rooms with Viennese charm", "sq": "Dhomat moderne me sharm vjenez" }
+    },
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "visible": true,
+      "galleryFolder": "about/gallery"
+    },
+    {
+      "id": "why-guests-love-us",
+      "type": "cards",
+      "visible": true,
+      "title": { "de": "Warum Gäste uns lieben", "en": "Why guests love us", "sq": "Pse mysafirët na duan" },
+      "items": [
+        { "id": "location", "visible": true, "image": "about/why/location.avif", "title": { "de": "Top Lage", "en": "Top location", "sq": "Vendndodhje e mirë" }, "description": { "de": "Zentral in Wien", "en": "Central in Vienna", "sq": "Qendër në Vjenë" } },
+        { "id": "personality", "visible": true, "image": "about/why/personality.avif", "title": { "de": "Persönlich", "en": "Personal", "sq": "Personale" }, "description": { "de": "Individuelle Betreuung", "en": "Individual care", "sq": "Kujdes individual" } },
+        { "id": "service", "visible": true, "image": "about/why/service.avif", "title": { "de": "Service", "en": "Service", "sq": "Shërbim" }, "description": { "de": "Rundum betreut", "en": "Full service", "sq": "Shërbim i plotë" } },
+        { "id": "detail", "visible": true, "image": "about/why/detail.avif", "title": { "de": "Liebe zum Detail", "en": "Attention to detail", "sq": "Kujdes ndaj detajeve" }, "description": { "de": "Durchdacht eingerichtet", "en": "Thoughtfully furnished", "sq": "Mobiluar me kujdes" } }
+      ]
+    }
+  ]
+}

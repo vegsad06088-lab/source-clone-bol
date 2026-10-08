@@ -1,0 +1,23 @@
+{
+  "id": "news",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "News & Events", "en": "News & Events", "sq": "Lajme & Evente" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "home/hero.avif",
+      "className": "min-h-[400px] h-[50vh]",
+      "title": { "de": "News & Events", "en": "News & Events", "sq": "Lajme & Evente" },
+      "subtitle": { "de": "Aktuelles aus Apartments zur Quelle", "en": "Latest from Apartments zur Quelle", "sq": "Të rejat nga Apartments zur Quelle" }
+    },
+    {
+      "id": "news-list",
+      "type": "news-list",
+      "visible": true,
+      "title": { "de": "Alle Neuigkeiten", "en": "All news", "sq": "Të gjitha lajmet" }
+    }
+  ]
+}

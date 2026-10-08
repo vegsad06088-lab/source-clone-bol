@@ -1,0 +1,21 @@
+{
+  "id": "booking-conditions",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Buchungsbedingungen", "en": "Booking Conditions", "sq": "Kushtet e rezervimit" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "className": "min-h-[30vh] h-[30vh]",
+      "title": { "de": "Buchungsbedingungen", "en": "Booking Conditions", "sq": "Kushtet e rezervimit" }
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "visible": true,
+      "body": { "de": "<h2>Buchungsbedingungen</h2><p>Mindestaufenthalt 2 Nächte. Check-in ab 15:00 Uhr, Check-out bis 11:00 Uhr.</p>", "en": "<h2>Booking Conditions</h2><p>Minimum stay 2 nights. Check-in from 3:00 PM, check-out by 11:00 AM.</p>", "sq": "<h2>Kushtet e Rezervimit</h2><p>Qëndrimi minimium 2 netë. Check-in nga 15:00, check-out deri në 11:00.</p>" }
+    }
+  ]
+}

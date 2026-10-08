@@ -1,0 +1,21 @@
+{
+  "id": "agb",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "AGB", "en": "Terms & Conditions", "sq": "Kushtet e përgjithshme" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "className": "min-h-[30vh] h-[30vh]",
+      "title": { "de": "AGB", "en": "Terms & Conditions", "sq": "Kushtet e përgjithshme" }
+    },
+    {
+      "id": "body",
+      "type": "text",
+      "visible": true,
+      "body": { "de": "<h2>Allgemeine Geschäftsbedingungen</h2><p>Die nachfolgenden Bedingungen gelten für alle Buchungen über unsere Website.</p>", "en": "<h2>Terms & Conditions</h2><p>The following conditions apply to all bookings via our website.</p>", "sq": "<h2>Kushtet e Përgjithshme</h2><p>Kushtet e mëposhtme zbatohen për të gjitha rezervimet përmes faqes sonë të internetit.</p>" }
+    }
+  ]
+}

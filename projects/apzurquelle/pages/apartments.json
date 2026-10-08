@@ -1,0 +1,38 @@
+{
+  "id": "apartments",
+  "visible": true,
+  "lastChanged": "2026-10-08T00:00:00.000Z",
+  "title": { "de": "Apartments", "en": "Apartments", "sq": "Apartamentet" },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "backgroundImage": "apartments-page/hero.avif",
+      "className": "min-h-[400px] h-[50vh]",
+      "title": { "de": "Apartments", "en": "Apartments", "sq": "Apartamentet" },
+      "subtitle": { "de": "Finden Sie das perfekte Apartment für Ihren Aufenthalt", "en": "Find the perfect apartment for your stay", "sq": "Gjeni apartamentin perfekt për qëndrimin tuaj" }
+    },
+    {
+      "id": "promo",
+      "type": "promo",
+      "visible": true
+    },
+    {
+      "id": "apartment-list",
+      "type": "apartment-list",
+      "visible": true,
+      "title": { "de": "Unsere Apartments", "en": "Our apartments", "sq": "Apartamentet tona" }
+    },
+    {
+      "id": "viator",
+      "type": "viator",
+      "visible": true,
+      "title": { "de": "Touren & Aktivitäten in Wien", "en": "Tours & activities in Vienna", "sq": "Ture & aktivitete në Vjenë" },
+      "subtitle": { "de": "Entdecken Sie Wien mit Viator", "en": "Discover Vienna with Viator", "sq": "Zbuloni Vjenën me Viator" },
+      "buttons": [
+        { "label": { "de": "Jetzt entdecken", "en": "Discover now", "sq": "Zbulo tani" }, "href": "https://www.viator.com" }
+      ]
+    }
+  ]
+}
